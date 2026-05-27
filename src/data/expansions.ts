@@ -1,8 +1,9 @@
 import type { Expansion } from "../types";
 
-// 한국판 스칼렛 & 바이올렛 시리즈 주요 확장팩.
-// 정확한 발매일/명칭은 사용자가 보정 가능.
+// 한국판 스칼렛 & 바이올렛 시리즈 + MEGA 시리즈 (2026-05 「닌자스피너」까지).
+// 발매일·명칭에 오류 있으면 보정 부탁드립니다.
 export const EXPANSIONS: Expansion[] = [
+  // === SV 시리즈 ===
   { id: "sv1S", code: "sv1S", name: "스칼렛 ex", series: "SV", releaseDate: "2023-03-24" },
   { id: "sv1V", code: "sv1V", name: "바이올렛 ex", series: "SV", releaseDate: "2023-03-24" },
   { id: "sv2P", code: "sv2P", name: "클레이버스트", series: "SV", releaseDate: "2023-04-14" },
@@ -19,6 +20,18 @@ export const EXPANSIONS: Expansion[] = [
   { id: "sv7a", code: "sv7a", name: "낙원 드래고나", series: "SV", releaseDate: "2024-10-18" },
   { id: "sv8", code: "sv8", name: "슈퍼일렉트릭 브레이커", series: "SV", releaseDate: "2024-11-08" },
   { id: "sv8a", code: "sv8a", name: "테라스탈 페스타 ex", series: "SV", releaseDate: "2024-12-06" },
+  { id: "sv9", code: "sv9", name: "배틀파트너즈", series: "SV", releaseDate: "2025-03-21" },
+  { id: "sv9a", code: "sv9a", name: "열풍의 아레나", series: "SV", releaseDate: "2025-05-16" },
+  { id: "sv10", code: "sv10", name: "로켓단의 영광", series: "SV", releaseDate: "2025-06-20" },
+  { id: "sv11B", code: "sv11B", name: "블랙볼트", series: "SV", releaseDate: "2025-08-04" },
+  { id: "sv11W", code: "sv11W", name: "화이트플레어", series: "SV", releaseDate: "2025-08-04" },
+
+  // === MEGA 시리즈 ===
+  { id: "m1", code: "M1", name: "메가브레이브", series: "MEGA", releaseDate: "2025-09-26" },
+  { id: "m2", code: "M2", name: "메가심포니아", series: "MEGA", releaseDate: "2025-09-26" },
+  { id: "m2a", code: "M2a", name: "MEGA 드림 ex (하이클래스)", series: "MEGA", releaseDate: "2026-01-23" },
+  { id: "m3", code: "M3", name: "니힐제로", series: "MEGA", releaseDate: "2026-03-13" },
+  { id: "m4", code: "M4", name: "닌자스피너", series: "MEGA", releaseDate: "2026-05-01" },
 ];
 
 export const EXPANSIONS_BY_ID: Record<string, Expansion> = Object.fromEntries(
