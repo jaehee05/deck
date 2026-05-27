@@ -1,10 +1,12 @@
 import { useMemo, useState } from "react";
-import type { Card } from "../types";
+import type { Card, OwnedExpansions } from "../types";
 import { CARDS } from "../data/cards";
+import { EXPANSIONS_BY_ID } from "../data/expansions";
 
 interface Props {
   onAdd: (cardId: string, delta: number) => void;
   owned: Record<string, number>;
+  expansions: OwnedExpansions;
 }
 
 const CATEGORY_LABEL: Record<Card["category"], string> = {
@@ -13,18 +15,30 @@ const CATEGORY_LABEL: Record<Card["category"], string> = {
   energy: "에너지",
 };
 
-export default function CardSearch({ onAdd, owned }: Props) {
+export default function CardSearch({ onAdd, owned, expansions }: Props) {
   const [query, setQuery] = useState("");
   const [filter, setFilter] = useState<Card["category"] | "all">("all");
+  const [onlyOwnedSets, setOnlyOwnedSets] = useState(false);
+
+  const hasExpansionSelection = Object.values(expansions).some(Boolean);
 
   const results = useMemo(() => {
     const q = query.trim().toLowerCase();
     return CARDS.filter((c) => {
       if (filter !== "all" && c.category !== filter) return false;
+      if (
+        onlyOwnedSets &&
+        hasExpansionSelection &&
+        c.category !== "energy" &&
+        c.setId &&
+        !expansions[c.setId]
+      ) {
+        return false;
+      }
       if (!q) return true;
       return c.name.toLowerCase().includes(q) || c.id.toLowerCase().includes(q);
     });
-  }, [query, filter]);
+  }, [query, filter, onlyOwnedSets, expansions, hasExpansionSelection]);
 
   return (
     <div className="space-y-3">
@@ -48,6 +62,18 @@ export default function CardSearch({ onAdd, owned }: Props) {
         </select>
       </div>
 
+      {hasExpansionSelection && (
+        <label className="flex items-center gap-2 text-xs text-slate-600">
+          <input
+            type="checkbox"
+            checked={onlyOwnedSets}
+            onChange={(e) => setOnlyOwnedSets(e.target.checked)}
+            className="h-4 w-4 rounded border-slate-300"
+          />
+          보유 확장팩 카드만 보기
+        </label>
+      )}
+
       <div className="max-h-72 overflow-y-auto rounded-md border border-slate-200 bg-white">
         {results.length === 0 ? (
           <div className="p-4 text-sm text-slate-500">결과 없음</div>
@@ -55,6 +81,7 @@ export default function CardSearch({ onAdd, owned }: Props) {
           <ul className="divide-y divide-slate-100">
             {results.map((c) => {
               const count = owned[c.id] ?? 0;
+              const exp = c.setId ? EXPANSIONS_BY_ID[c.setId] : undefined;
               return (
                 <li
                   key={c.id}
@@ -64,8 +91,13 @@ export default function CardSearch({ onAdd, owned }: Props) {
                     <div className="truncate text-sm font-medium text-slate-800">
                       {c.name}
                     </div>
-                    <div className="text-xs text-slate-500">
-                      {CATEGORY_LABEL[c.category]}
+                    <div className="flex items-center gap-1.5 text-xs text-slate-500">
+                      <span>{CATEGORY_LABEL[c.category]}</span>
+                      {exp && (
+                        <span className="truncate text-[10px] text-slate-400">
+                          · {exp.name}
+                        </span>
+                      )}
                     </div>
                   </div>
                   <div className="flex shrink-0 items-center gap-1">

@@ -4,9 +4,19 @@ export interface Card {
   id: string;
   name: string;
   category: CardCategory;
-  set?: string;
+  setId?: string;
   number?: string;
 }
+
+export interface Expansion {
+  id: string;
+  code: string;
+  name: string;
+  series: string;
+  releaseDate?: string;
+}
+
+export type OwnedExpansions = Record<string, true>;
 
 export interface DeckEntry {
   cardId: string;

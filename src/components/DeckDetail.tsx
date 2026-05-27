@@ -1,11 +1,13 @@
 import type { DeckMatch } from "../utils/matcher";
 import { CARDS_BY_ID } from "../data/cards";
+import { EXPANSIONS_BY_ID } from "../data/expansions";
 import { deckQuantities } from "../data/decks";
-import type { OwnedMap } from "../types";
+import type { OwnedExpansions, OwnedMap } from "../types";
 
 interface Props {
   match: DeckMatch;
   owned: OwnedMap;
+  expansions: OwnedExpansions;
 }
 
 const CATEGORY_ORDER: Record<string, number> = {
@@ -14,14 +16,22 @@ const CATEGORY_ORDER: Record<string, number> = {
   energy: 2,
 };
 
-export default function DeckDetail({ match, owned }: Props) {
+const CATEGORY_LABEL: Record<string, string> = {
+  pokemon: "포켓몬",
+  trainer: "트레이너",
+  energy: "에너지",
+};
+
+export default function DeckDetail({ match, owned, expansions }: Props) {
   const need = deckQuantities(match.deck);
   const rows = Object.entries(need)
     .map(([cardId, requested]) => {
       const have = owned[cardId] ?? 0;
       const matched = Math.min(have, requested);
       const card = CARDS_BY_ID[cardId];
-      return { cardId, card, requested, have, matched };
+      const expansion = card?.setId ? EXPANSIONS_BY_ID[card.setId] : undefined;
+      const fromOwnedSet = !card?.setId || !!expansions[card.setId];
+      return { cardId, card, requested, have, matched, expansion, fromOwnedSet };
     })
     .sort((a, b) => {
       const oa = CATEGORY_ORDER[a.card?.category ?? "trainer"] ?? 9;
@@ -29,6 +39,8 @@ export default function DeckDetail({ match, owned }: Props) {
       if (oa !== ob) return oa - ob;
       return (a.card?.name ?? "").localeCompare(b.card?.name ?? "");
     });
+
+  const hasExpansionSelection = Object.values(expansions).some(Boolean);
 
   return (
     <div className="space-y-4">
@@ -50,6 +62,15 @@ export default function DeckDetail({ match, owned }: Props) {
           <span>보유 {match.ownedCount}장</span>
           <span>덱 총 {match.total}장</span>
         </div>
+        {hasExpansionSelection && (
+          <div className="mt-2 flex items-baseline justify-between border-t border-slate-100 pt-2 text-xs">
+            <span className="text-slate-500">보유 확장팩 커버리지</span>
+            <span className="font-medium tabular-nums text-slate-700">
+              {Math.round(match.setCoverageRate * 100)}% (
+              {match.setCoveredCount}/{match.total}장)
+            </span>
+          </div>
+        )}
       </div>
 
       <div>
@@ -69,14 +90,30 @@ export default function DeckDetail({ match, owned }: Props) {
                   <div className="truncate font-medium text-slate-800">
                     {r.card?.name ?? r.cardId}
                   </div>
-                  <div className="text-xs text-slate-500">
-                    {r.card?.category === "pokemon"
-                      ? "포켓몬"
-                      : r.card?.category === "trainer"
-                        ? "트레이너"
-                        : r.card?.category === "energy"
-                          ? "에너지"
-                          : "—"}
+                  <div className="flex flex-wrap items-center gap-1.5 text-xs text-slate-500">
+                    <span>
+                      {CATEGORY_LABEL[r.card?.category ?? ""] ?? "—"}
+                    </span>
+                    {r.expansion && (
+                      <span
+                        className={`rounded px-1 py-0.5 text-[10px] ring-1 ring-inset ${
+                          hasExpansionSelection && r.fromOwnedSet
+                            ? "bg-emerald-50 text-emerald-700 ring-emerald-200"
+                            : hasExpansionSelection
+                              ? "bg-slate-50 text-slate-500 ring-slate-200"
+                              : "bg-slate-50 text-slate-500 ring-slate-200"
+                        }`}
+                        title={
+                          hasExpansionSelection
+                            ? r.fromOwnedSet
+                              ? "보유 확장팩에 등장"
+                              : "보유하지 않은 확장팩"
+                            : r.expansion.name
+                        }
+                      >
+                        {r.expansion.name}
+                      </span>
+                    )}
                   </div>
                 </div>
                 <div className="shrink-0 text-right">

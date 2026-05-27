@@ -4,6 +4,7 @@ interface Props {
   matches: DeckMatch[];
   selectedId: string | null;
   onSelect: (deckId: string) => void;
+  expansionsSelected: boolean;
 }
 
 const TIER_COLOR: Record<"S" | "A" | "B", string> = {
@@ -12,11 +13,17 @@ const TIER_COLOR: Record<"S" | "A" | "B", string> = {
   B: "bg-sky-100 text-sky-800 ring-sky-200",
 };
 
-export default function DeckList({ matches, selectedId, onSelect }: Props) {
+export default function DeckList({
+  matches,
+  selectedId,
+  onSelect,
+  expansionsSelected,
+}: Props) {
   return (
     <ul className="space-y-2">
       {matches.map((m) => {
         const pct = Math.round(m.matchRate * 100);
+        const setPct = Math.round(m.setCoverageRate * 100);
         const isSelected = m.deck.id === selectedId;
         const missingTotal = m.missing.reduce((s, x) => s + x.need, 0);
         return (
@@ -65,11 +72,29 @@ export default function DeckList({ matches, selectedId, onSelect }: Props) {
                 />
               </div>
 
-              {missingTotal > 0 && (
-                <p className="mt-2 text-xs text-slate-500">
-                  부족 {missingTotal}장 · 종류 {m.missing.length}개
-                </p>
-              )}
+              <div className="mt-2 flex items-center justify-between text-xs text-slate-500">
+                {missingTotal > 0 ? (
+                  <span>
+                    부족 {missingTotal}장 · 종류 {m.missing.length}개
+                  </span>
+                ) : (
+                  <span className="text-emerald-700">완성 가능</span>
+                )}
+                {expansionsSelected && (
+                  <span
+                    className={
+                      setPct >= 80
+                        ? "text-emerald-700"
+                        : setPct >= 50
+                          ? "text-amber-600"
+                          : "text-slate-500"
+                    }
+                    title="보유 확장팩에서 등장하는 카드 비율"
+                  >
+                    확장팩 커버 {setPct}%
+                  </span>
+                )}
+              </div>
             </button>
           </li>
         );
