@@ -29,6 +29,7 @@ export const EXPANSIONS: Expansion[] = [
   // === MEGA 시리즈 ===
   { id: "m1L", code: "M1L", name: "메가브레이브", series: "MEGA", releaseDate: "2025-09-26" },
   { id: "m1S", code: "M1S", name: "메가심포니아", series: "MEGA", releaseDate: "2025-09-26" },
+  { id: "m2", code: "M2", name: "인페르노X", series: "MEGA", releaseDate: "2025-11-28" },
   { id: "m2a", code: "M2a", name: "MEGA 드림 ex (하이클래스)", series: "MEGA", releaseDate: "2026-01-23" },
   { id: "m3", code: "M3", name: "니힐제로", series: "MEGA", releaseDate: "2026-03-13" },
   { id: "m4", code: "M4", name: "닌자스피너", series: "MEGA", releaseDate: "2026-05-01" },
