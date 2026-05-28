@@ -1,5 +1,6 @@
 import { useCallback, useEffect, useMemo, useState } from "react";
 import type { OwnedExpansions, OwnedMap } from "./types";
+import { CARDS } from "./data/cards";
 import { DECKS } from "./data/decks";
 import { EXPANSIONS } from "./data/expansions";
 import { rankDecks } from "./utils/matcher";
@@ -62,6 +63,22 @@ export default function App() {
     []
   );
 
+  const bulkAdjustExpansion = useCallback(
+    (expansionId: string, delta: number) => {
+      setOwned((prev) => {
+        const next = { ...prev };
+        for (const card of CARDS) {
+          if (!card.setIds.includes(expansionId)) continue;
+          const v = (next[card.id] ?? 0) + delta;
+          if (v <= 0) delete next[card.id];
+          else next[card.id] = Math.min(v, 4);
+        }
+        return next;
+      });
+    },
+    []
+  );
+
   const matches = useMemo(
     () => rankDecks(DECKS, owned, expansions),
     [owned, expansions]
@@ -93,6 +110,7 @@ export default function App() {
               onToggle={toggleExpansion}
               onClear={clearExpansions}
               onSelectAll={selectAllExpansions}
+              onBulkAdjust={bulkAdjustExpansion}
             />
           </div>
           <div>

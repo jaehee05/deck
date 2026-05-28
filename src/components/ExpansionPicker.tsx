@@ -7,9 +7,9 @@ interface Props {
   onToggle: (expansionId: string) => void;
   onClear: () => void;
   onSelectAll: () => void;
+  onBulkAdjust: (expansionId: string, delta: number) => void;
 }
 
-// 시리즈 표시 순서 (최신순)
 const SERIES_ORDER: string[] = ["MEGA", "SV"];
 const SERIES_LABEL: Record<string, string> = {
   MEGA: "MEGA",
@@ -40,13 +40,13 @@ export default function ExpansionPicker({
   onToggle,
   onClear,
   onSelectAll,
+  onBulkAdjust,
 }: Props) {
   const [expanded, setExpanded] = useState(false);
 
   const groups = useMemo(() => groupBySeries(EXPANSIONS), []);
   const ownedCount = Object.values(owned).filter(Boolean).length;
 
-  // 접힌 상태: MEGA 전체 + SV 최근 4개만
   const visibleGroups = expanded
     ? groups
     : groups.map((g) =>
@@ -80,18 +80,22 @@ export default function ExpansionPicker({
               <span>{SERIES_LABEL[g.series] ?? g.series}</span>
               <span className="text-slate-400">· {g.items.length}</span>
             </div>
-            <ul className="grid grid-cols-2 gap-1.5">
+            <ul className="space-y-1">
               {g.items.map((exp) => {
                 const isOwned = !!owned[exp.id];
                 return (
-                  <li key={exp.id}>
+                  <li
+                    key={exp.id}
+                    className={`flex items-center gap-2 rounded-md border px-2 py-1.5 text-xs ${
+                      isOwned
+                        ? "border-emerald-500 bg-emerald-50"
+                        : "border-slate-200 bg-white"
+                    }`}
+                  >
                     <button
                       onClick={() => onToggle(exp.id)}
-                      className={`flex w-full items-center gap-2 rounded-md border px-2.5 py-1.5 text-left text-xs transition ${
-                        isOwned
-                          ? "border-emerald-500 bg-emerald-50 text-emerald-900"
-                          : "border-slate-200 bg-white text-slate-700 hover:border-slate-400"
-                      }`}
+                      className="flex min-w-0 flex-1 items-center gap-2 text-left"
+                      aria-label={isOwned ? "확장팩 보유 해제" : "확장팩 보유로 표시"}
                     >
                       <span
                         className={`inline-flex h-4 w-4 shrink-0 items-center justify-center rounded border ${
@@ -103,8 +107,10 @@ export default function ExpansionPicker({
                       >
                         {isOwned ? "✓" : ""}
                       </span>
-                      <span className="min-w-0">
-                        <span className="block truncate font-medium">
+                      <span className="min-w-0 flex-1">
+                        <span
+                          className={`block truncate font-medium ${isOwned ? "text-emerald-900" : "text-slate-700"}`}
+                        >
                           {exp.name}
                         </span>
                         <span className="block text-[10px] text-slate-500">
@@ -115,6 +121,25 @@ export default function ExpansionPicker({
                         </span>
                       </span>
                     </button>
+                    <div
+                      className="flex shrink-0 items-center gap-1"
+                      title="이 확장팩의 모든 카드에 일괄 +1/-1"
+                    >
+                      <button
+                        onClick={() => onBulkAdjust(exp.id, -1)}
+                        className="h-7 w-7 rounded border border-slate-300 bg-white text-slate-700 hover:bg-slate-100"
+                        aria-label="이 확장팩 카드 전체 -1"
+                      >
+                        −1
+                      </button>
+                      <button
+                        onClick={() => onBulkAdjust(exp.id, +1)}
+                        className="h-7 w-7 rounded border border-slate-300 bg-white text-slate-700 hover:bg-slate-100"
+                        aria-label="이 확장팩 카드 전체 +1"
+                      >
+                        +1
+                      </button>
+                    </div>
                   </li>
                 );
               })}
@@ -123,9 +148,9 @@ export default function ExpansionPicker({
         ))}
       </div>
 
-      {hiddenCount > 0 && (
+      {hiddenCount > 0 && !expanded && (
         <button
-          onClick={() => setExpanded((v) => !v)}
+          onClick={() => setExpanded(true)}
           className="w-full rounded-md border border-slate-200 bg-white py-1.5 text-xs text-slate-600 hover:border-slate-400"
         >
           + {hiddenCount}개 더 보기
