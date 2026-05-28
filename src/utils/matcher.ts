@@ -8,10 +8,19 @@ export interface DeckMatch {
   ownedCount: number;
   missing: { cardId: string; need: number }[];
   matchRate: number;
-  // 덱 안에서 「보유 확장팩」에 속한 카드 장수 / 총장수
-  // 에너지(setId 없음) 는 항상 포함된 것으로 간주 (기본 에너지는 어디서나 구할 수 있음).
+  // 덱 안에서 「보유 확장팩」에 등장하는 카드 장수 / 총장수.
+  // setIds 가 빈 카드(기본 에너지) 는 항상 커버된 것으로 간주.
   setCoveredCount: number;
   setCoverageRate: number;
+}
+
+function isCoveredByOwnedSet(
+  card: { setIds: string[] } | undefined,
+  expansions: OwnedExpansions
+): boolean {
+  if (!card) return false;
+  if (card.setIds.length === 0) return true; // 기본 에너지 등
+  return card.setIds.some((s) => expansions[s]);
 }
 
 export function evaluateDeck(
@@ -33,11 +42,9 @@ export function evaluateDeck(
       missing.push({ cardId, need: requested - matched });
     }
 
-    const card = CARDS_BY_ID[cardId];
-    const isCoveredBySet =
-      !card?.setId || // setId 없으면 기본 에너지·재판 가정 → 항상 커버
-      expansions[card.setId];
-    if (isCoveredBySet) setCoveredCount += requested;
+    if (isCoveredByOwnedSet(CARDS_BY_ID[cardId], expansions)) {
+      setCoveredCount += requested;
+    }
   }
 
   return {

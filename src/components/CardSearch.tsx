@@ -29,15 +29,14 @@ export default function CardSearch({ onAdd, owned, expansions }: Props) {
       if (
         onlyOwnedSets &&
         hasExpansionSelection &&
-        c.category !== "energy" &&
-        c.setId &&
-        !expansions[c.setId]
+        c.setIds.length > 0 &&
+        !c.setIds.some((s) => expansions[s])
       ) {
         return false;
       }
       if (!q) return true;
-      return c.name.toLowerCase().includes(q) || c.id.toLowerCase().includes(q);
-    });
+      return c.name.toLowerCase().includes(q);
+    }).slice(0, 200); // 너무 많을 땐 잘라서 perf 보호
   }, [query, filter, onlyOwnedSets, expansions, hasExpansionSelection]);
 
   return (
@@ -47,7 +46,7 @@ export default function CardSearch({ onAdd, owned, expansions }: Props) {
           type="text"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
-          placeholder="카드 이름으로 검색 (예: 리자몽, 아이오노)"
+          placeholder="카드 이름으로 검색 (예: 메가리자몽X, 아이오노)"
           className="flex-1 rounded-md border border-slate-300 bg-white px-3 py-2 text-sm focus:border-slate-500 focus:outline-none"
         />
         <select
@@ -81,7 +80,9 @@ export default function CardSearch({ onAdd, owned, expansions }: Props) {
           <ul className="divide-y divide-slate-100">
             {results.map((c) => {
               const count = owned[c.id] ?? 0;
-              const exp = c.setId ? EXPANSIONS_BY_ID[c.setId] : undefined;
+              const setNames = c.setIds
+                .map((s) => EXPANSIONS_BY_ID[s]?.code ?? s)
+                .join(" · ");
               return (
                 <li
                   key={c.id}
@@ -93,9 +94,9 @@ export default function CardSearch({ onAdd, owned, expansions }: Props) {
                     </div>
                     <div className="flex items-center gap-1.5 text-xs text-slate-500">
                       <span>{CATEGORY_LABEL[c.category]}</span>
-                      {exp && (
+                      {setNames && (
                         <span className="truncate text-[10px] text-slate-400">
-                          · {exp.name}
+                          · {setNames}
                         </span>
                       )}
                     </div>

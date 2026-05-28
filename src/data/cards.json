@@ -1,0 +1,11294 @@
+[
+  {
+    "id": "가디",
+    "name": "가디",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "가디안 ex",
+    "name": "가디안 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "가보리",
+    "name": "가보리",
+    "category": "pokemon",
+    "setIds": [
+      "SV6"
+    ]
+  },
+  {
+    "id": "가비루사",
+    "name": "가비루사",
+    "category": "pokemon",
+    "setIds": [
+      "SV4K",
+      "SV4a",
+      "SV7"
+    ]
+  },
+  {
+    "id": "가이오가",
+    "name": "가이오가",
+    "category": "pokemon",
+    "setIds": [
+      "M1S"
+    ]
+  },
+  {
+    "id": "가재군",
+    "name": "가재군",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "SV5a"
+    ]
+  },
+  {
+    "id": "가재장군",
+    "name": "가재장군",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "SV5a"
+    ]
+  },
+  {
+    "id": "갈가부기",
+    "name": "갈가부기",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "갈모매",
+    "name": "갈모매",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "갑주무사",
+    "name": "갑주무사",
+    "category": "pokemon",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "갑주무사 ex",
+    "name": "갑주무사 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4K"
+    ]
+  },
+  {
+    "id": "강챙이",
+    "name": "강챙이",
+    "category": "pokemon",
+    "setIds": [
+      "SV6"
+    ]
+  },
+  {
+    "id": "강철톤",
+    "name": "강철톤",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "SV4M"
+    ]
+  },
+  {
+    "id": "개구마르",
+    "name": "개구마르",
+    "category": "pokemon",
+    "setIds": [
+      "M4",
+      "SV5a"
+    ]
+  },
+  {
+    "id": "개굴닌자 ex",
+    "name": "개굴닌자 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV5a"
+    ]
+  },
+  {
+    "id": "개굴반장",
+    "name": "개굴반장",
+    "category": "pokemon",
+    "setIds": [
+      "M4",
+      "SV5a"
+    ]
+  },
+  {
+    "id": "갱도라",
+    "name": "갱도라",
+    "category": "pokemon",
+    "setIds": [
+      "SV6"
+    ]
+  },
+  {
+    "id": "거대코뿌리",
+    "name": "거대코뿌리",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "거북손데스",
+    "name": "거북손데스",
+    "category": "pokemon",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "거북손손",
+    "name": "거북손손",
+    "category": "pokemon",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "게노세크트",
+    "name": "게노세크트",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV11B",
+      "SV6a"
+    ]
+  },
+  {
+    "id": "게을로",
+    "name": "게을로",
+    "category": "pokemon",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "게을킹 ex",
+    "name": "게을킹 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "겟핸보숭",
+    "name": "겟핸보숭",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV4M",
+      "SV6"
+    ]
+  },
+  {
+    "id": "견고라스",
+    "name": "견고라스",
+    "category": "pokemon",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "고동치는달",
+    "name": "고동치는달",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "고동치는달 ex",
+    "name": "고동치는달 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4K",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "고디모아젤",
+    "name": "고디모아젤",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "고디보미",
+    "name": "고디보미",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "고디탱",
+    "name": "고디탱",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "고래왕",
+    "name": "고래왕",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "고래왕자",
+    "name": "고래왕자",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "고릴타",
+    "name": "고릴타",
+    "category": "pokemon",
+    "setIds": [
+      "SV6"
+    ]
+  },
+  {
+    "id": "고오스",
+    "name": "고오스",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV5K"
+    ]
+  },
+  {
+    "id": "고우스트",
+    "name": "고우스트",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV5K"
+    ]
+  },
+  {
+    "id": "고지",
+    "name": "고지",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "SV6"
+    ]
+  },
+  {
+    "id": "곤율거니",
+    "name": "곤율거니",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "곤율랭",
+    "name": "곤율랭",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "골루그",
+    "name": "골루그",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV5K"
+    ]
+  },
+  {
+    "id": "골뱃",
+    "name": "골뱃",
+    "category": "pokemon",
+    "setIds": [
+      "M4",
+      "SV4K",
+      "SV6a"
+    ]
+  },
+  {
+    "id": "골비람",
+    "name": "골비람",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV5K"
+    ]
+  },
+  {
+    "id": "공푸리",
+    "name": "공푸리",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV5M",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "과미드라",
+    "name": "과미드라",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "과미드라 ex",
+    "name": "과미드라 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV7",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "과미르",
+    "name": "과미르",
+    "category": "pokemon",
+    "setIds": [
+      "SV5a",
+      "SV6",
+      "SV7",
+      "SV8a",
+      "SV9a"
+    ]
+  },
+  {
+    "id": "과사삭벌레",
+    "name": "과사삭벌레",
+    "category": "pokemon",
+    "setIds": [
+      "SV5a",
+      "SV6",
+      "SV7",
+      "SV7a",
+      "SV8a",
+      "SV9a"
+    ]
+  },
+  {
+    "id": "구구",
+    "name": "구구",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "구르데",
+    "name": "구르데",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a",
+      "SV5M",
+      "SV8",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "굽이치는물결",
+    "name": "굽이치는물결",
+    "category": "pokemon",
+    "setIds": [
+      "SV5a"
+    ]
+  },
+  {
+    "id": "굽이치는물결 ex",
+    "name": "굽이치는물결 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "그라에나",
+    "name": "그라에나",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K",
+      "SV6"
+    ]
+  },
+  {
+    "id": "그란돈",
+    "name": "그란돈",
+    "category": "pokemon",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "그우린차",
+    "name": "그우린차",
+    "category": "pokemon",
+    "setIds": [
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "그우린차 ex",
+    "name": "그우린차 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV5a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "그푸리",
+    "name": "그푸리",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV5M",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "글라이거",
+    "name": "글라이거",
+    "category": "pokemon",
+    "setIds": [
+      "M2"
+    ]
+  },
+  {
+    "id": "글라이온",
+    "name": "글라이온",
+    "category": "pokemon",
+    "setIds": [
+      "M2"
+    ]
+  },
+  {
+    "id": "글레이시아",
+    "name": "글레이시아",
+    "category": "pokemon",
+    "setIds": [
+      "SV5a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "글레이시아 ex",
+    "name": "글레이시아 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "기가이어스",
+    "name": "기가이어스",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "기기기어르",
+    "name": "기기기어르",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV7"
+    ]
+  },
+  {
+    "id": "기기어르",
+    "name": "기기어르",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV7"
+    ]
+  },
+  {
+    "id": "기로치",
+    "name": "기로치",
+    "category": "pokemon",
+    "setIds": [
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "기로치 ex",
+    "name": "기로치 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV6a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "기어르",
+    "name": "기어르",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV7"
+    ]
+  },
+  {
+    "id": "깜까미",
+    "name": "깜까미",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a",
+      "SV5K"
+    ]
+  },
+  {
+    "id": "깜놀버슬",
+    "name": "깜놀버슬",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B"
+    ]
+  },
+  {
+    "id": "깜눈크",
+    "name": "깜눈크",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV11B"
+    ]
+  },
+  {
+    "id": "깝질무",
+    "name": "깝질무",
+    "category": "pokemon",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "깨물부기",
+    "name": "깨물부기",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "깨봉이",
+    "name": "깨봉이",
+    "category": "pokemon",
+    "setIds": [
+      "M4",
+      "SV11W",
+      "SV4K",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "깨비드릴조",
+    "name": "깨비드릴조",
+    "category": "pokemon",
+    "setIds": [
+      "M1L"
+    ]
+  },
+  {
+    "id": "깨비참",
+    "name": "깨비참",
+    "category": "pokemon",
+    "setIds": [
+      "M1L"
+    ]
+  },
+  {
+    "id": "껍질몬",
+    "name": "껍질몬",
+    "category": "pokemon",
+    "setIds": [
+      "M1S"
+    ]
+  },
+  {
+    "id": "꼬렛",
+    "name": "꼬렛",
+    "category": "pokemon",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "꼬리선",
+    "name": "꼬리선",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "꼬링크",
+    "name": "꼬링크",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV4a",
+      "SV6"
+    ]
+  },
+  {
+    "id": "꼬모카",
+    "name": "꼬모카",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "꼬몽울",
+    "name": "꼬몽울",
+    "category": "pokemon",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "꼬시레",
+    "name": "꼬시레",
+    "category": "pokemon",
+    "setIds": [
+      "M4",
+      "SV4K"
+    ]
+  },
+  {
+    "id": "꼬이밍고",
+    "name": "꼬이밍고",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "꼬지모",
+    "name": "꼬지모",
+    "category": "pokemon",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "꼬지보리",
+    "name": "꼬지보리",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV6"
+    ]
+  },
+  {
+    "id": "꼬치조",
+    "name": "꼬치조",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "꼴깍몬",
+    "name": "꼴깍몬",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "꽁어름",
+    "name": "꽁어름",
+    "category": "pokemon",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "꾸꾸리",
+    "name": "꾸꾸리",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV9"
+    ]
+  },
+  {
+    "id": "꾸왁스",
+    "name": "꾸왁스",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a",
+      "SV7a"
+    ]
+  },
+  {
+    "id": "꿀꺽몬",
+    "name": "꿀꺽몬",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "꿈트렁 ex",
+    "name": "꿈트렁 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "꿰뚫는화염",
+    "name": "꿰뚫는화염",
+    "category": "pokemon",
+    "setIds": [
+      "SV7a"
+    ]
+  },
+  {
+    "id": "꿰뚫는화염 ex",
+    "name": "꿰뚫는화염 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "끼리동",
+    "name": "끼리동",
+    "category": "pokemon",
+    "setIds": [
+      "SV6a"
+    ]
+  },
+  {
+    "id": "나로테",
+    "name": "나로테",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a",
+      "SV9"
+    ]
+  },
+  {
+    "id": "나루림",
+    "name": "나루림",
+    "category": "pokemon",
+    "setIds": [
+      "SV6"
+    ]
+  },
+  {
+    "id": "나룸퍼프",
+    "name": "나룸퍼프",
+    "category": "pokemon",
+    "setIds": [
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "나목령",
+    "name": "나목령",
+    "category": "pokemon",
+    "setIds": [
+      "M4",
+      "SV6"
+    ]
+  },
+  {
+    "id": "나몰빼미",
+    "name": "나몰빼미",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV6a"
+    ]
+  },
+  {
+    "id": "나시",
+    "name": "나시",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "SV8"
+    ]
+  },
+  {
+    "id": "나오하",
+    "name": "나오하",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a",
+      "SV9"
+    ]
+  },
+  {
+    "id": "나옹",
+    "name": "나옹",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV6a"
+    ]
+  },
+  {
+    "id": "나옹마",
+    "name": "나옹마",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "나인테일",
+    "name": "나인테일",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "M4",
+      "SV5a"
+    ]
+  },
+  {
+    "id": "난천의 딥상어동",
+    "name": "난천의 딥상어동",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "난천의 로젤리아",
+    "name": "난천의 로젤리아",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "난천의 로즈레이드",
+    "name": "난천의 로즈레이드",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "난천의 밀로틱",
+    "name": "난천의 밀로틱",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "난천의 빈티나",
+    "name": "난천의 빈티나",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "난천의 한바이트",
+    "name": "난천의 한바이트",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "난천의 한카리아스",
+    "name": "난천의 한카리아스",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "난천의 화강돌",
+    "name": "난천의 화강돌",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "날개치는머리",
+    "name": "날개치는머리",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K",
+      "SV8",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "날뛰는우레",
+    "name": "날뛰는우레",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "날뛰는우레 ex",
+    "name": "날뛰는우레 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "날쌩마",
+    "name": "날쌩마",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "내던숭이",
+    "name": "내던숭이",
+    "category": "pokemon",
+    "setIds": [
+      "SV7a"
+    ]
+  },
+  {
+    "id": "내루미",
+    "name": "내루미",
+    "category": "pokemon",
+    "setIds": [
+      "SV5M"
+    ]
+  },
+  {
+    "id": "내룸벨트",
+    "name": "내룸벨트",
+    "category": "pokemon",
+    "setIds": [
+      "SV5M"
+    ]
+  },
+  {
+    "id": "냄새꼬",
+    "name": "냄새꼬",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "냐스퍼",
+    "name": "냐스퍼",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "M4",
+      "SV8"
+    ]
+  },
+  {
+    "id": "냐오닉스",
+    "name": "냐오닉스",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "M4",
+      "SV8"
+    ]
+  },
+  {
+    "id": "냐오불",
+    "name": "냐오불",
+    "category": "pokemon",
+    "setIds": [
+      "SV5M"
+    ]
+  },
+  {
+    "id": "냐오히트",
+    "name": "냐오히트",
+    "category": "pokemon",
+    "setIds": [
+      "SV5M"
+    ]
+  },
+  {
+    "id": "너트령",
+    "name": "너트령",
+    "category": "pokemon",
+    "setIds": [
+      "M4",
+      "SV11W"
+    ]
+  },
+  {
+    "id": "네오라이트",
+    "name": "네오라이트",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "네오비트",
+    "name": "네오비트",
+    "category": "pokemon",
+    "setIds": [
+      "SV6"
+    ]
+  },
+  {
+    "id": "네이티",
+    "name": "네이티",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "네이티오",
+    "name": "네이티오",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "노고고치",
+    "name": "노고고치",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K",
+      "SV8a",
+      "SV9"
+    ]
+  },
+  {
+    "id": "노고치",
+    "name": "노고치",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K",
+      "SV8a",
+      "SV9"
+    ]
+  },
+  {
+    "id": "노공룡",
+    "name": "노공룡",
+    "category": "pokemon",
+    "setIds": [
+      "SV4K"
+    ]
+  },
+  {
+    "id": "노보청",
+    "name": "노보청",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV6"
+    ]
+  },
+  {
+    "id": "누겔레온",
+    "name": "누겔레온",
+    "category": "pokemon",
+    "setIds": [
+      "M1S"
+    ]
+  },
+  {
+    "id": "누니머기",
+    "name": "누니머기",
+    "category": "pokemon",
+    "setIds": [
+      "M1S",
+      "SV5K"
+    ]
+  },
+  {
+    "id": "눈꼬마",
+    "name": "눈꼬마",
+    "category": "pokemon",
+    "setIds": [
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "눈설왕",
+    "name": "눈설왕",
+    "category": "pokemon",
+    "setIds": [
+      "SV10",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "눈쓰개",
+    "name": "눈쓰개",
+    "category": "pokemon",
+    "setIds": [
+      "M1S",
+      "SV10",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "눈여아",
+    "name": "눈여아",
+    "category": "pokemon",
+    "setIds": [
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "늑골라",
+    "name": "늑골라",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV7"
+    ]
+  },
+  {
+    "id": "니로우",
+    "name": "니로우",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "님피아",
+    "name": "님피아",
+    "category": "pokemon",
+    "setIds": [
+      "SV6a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "님피아 ex",
+    "name": "님피아 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "다꼬리",
+    "name": "다꼬리",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "다부니",
+    "name": "다부니",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B"
+    ]
+  },
+  {
+    "id": "다크펫",
+    "name": "다크펫",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "다태우지네",
+    "name": "다태우지네",
+    "category": "pokemon",
+    "setIds": [
+      "M1S",
+      "SV5K",
+      "SV8"
+    ]
+  },
+  {
+    "id": "다탱구",
+    "name": "다탱구",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "SV5M"
+    ]
+  },
+  {
+    "id": "다투곰 붉은 달",
+    "name": "다투곰 붉은 달",
+    "category": "pokemon",
+    "setIds": [
+      "SV6a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "다투곰 붉은 달 ex",
+    "name": "다투곰 붉은 달 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV5a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "단굴",
+    "name": "단굴",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "단단지",
+    "name": "단단지",
+    "category": "pokemon",
+    "setIds": [
+      "M1S"
+    ]
+  },
+  {
+    "id": "단데기",
+    "name": "단데기",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "단지래플",
+    "name": "단지래플",
+    "category": "pokemon",
+    "setIds": [
+      "SV7a"
+    ]
+  },
+  {
+    "id": "단칼빙",
+    "name": "단칼빙",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV4M",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "달막화",
+    "name": "달막화",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV11B",
+      "SV6"
+    ]
+  },
+  {
+    "id": "달무리나",
+    "name": "달무리나",
+    "category": "pokemon",
+    "setIds": [
+      "SV4K"
+    ]
+  },
+  {
+    "id": "달코퀸 ex",
+    "name": "달코퀸 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4K"
+    ]
+  },
+  {
+    "id": "달콤아",
+    "name": "달콤아",
+    "category": "pokemon",
+    "setIds": [
+      "SV4K"
+    ]
+  },
+  {
+    "id": "대검귀",
+    "name": "대검귀",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "대굴레오",
+    "name": "대굴레오",
+    "category": "pokemon",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "대도각참",
+    "name": "대도각참",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "대로트",
+    "name": "대로트",
+    "category": "pokemon",
+    "setIds": [
+      "M4",
+      "SV6"
+    ]
+  },
+  {
+    "id": "대여르",
+    "name": "대여르",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "대왕끼리동",
+    "name": "대왕끼리동",
+    "category": "pokemon",
+    "setIds": [
+      "SV6a"
+    ]
+  },
+  {
+    "id": "대코파스",
+    "name": "대코파스",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV10",
+      "SV5a"
+    ]
+  },
+  {
+    "id": "대포무노",
+    "name": "대포무노",
+    "category": "pokemon",
+    "setIds": [
+      "M4",
+      "SV9"
+    ]
+  },
+  {
+    "id": "더스트나",
+    "name": "더스트나",
+    "category": "pokemon",
+    "setIds": [
+      "M4",
+      "SV11W",
+      "SV4K",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "던지미",
+    "name": "던지미",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B"
+    ]
+  },
+  {
+    "id": "덩쿠리",
+    "name": "덩쿠리",
+    "category": "pokemon",
+    "setIds": [
+      "M1S",
+      "SV5a"
+    ]
+  },
+  {
+    "id": "덩쿠림보",
+    "name": "덩쿠림보",
+    "category": "pokemon",
+    "setIds": [
+      "M1S",
+      "SV5a"
+    ]
+  },
+  {
+    "id": "데기라스",
+    "name": "데기라스",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "데덴네",
+    "name": "데덴네",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV8"
+    ]
+  },
+  {
+    "id": "데스니칸",
+    "name": "데스니칸",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV8"
+    ]
+  },
+  {
+    "id": "데스니칸 ex",
+    "name": "데스니칸 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4K"
+    ]
+  },
+  {
+    "id": "데스마스",
+    "name": "데스마스",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV4K",
+      "SV8"
+    ]
+  },
+  {
+    "id": "델빌",
+    "name": "델빌",
+    "category": "pokemon",
+    "setIds": [
+      "SV6a"
+    ]
+  },
+  {
+    "id": "델케티",
+    "name": "델케티",
+    "category": "pokemon",
+    "setIds": [
+      "SV5M"
+    ]
+  },
+  {
+    "id": "도치마론",
+    "name": "도치마론",
+    "category": "pokemon",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "도치보구",
+    "name": "도치보구",
+    "category": "pokemon",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "도토링",
+    "name": "도토링",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "SV5M"
+    ]
+  },
+  {
+    "id": "독개굴",
+    "name": "독개굴",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "SV6a"
+    ]
+  },
+  {
+    "id": "독침붕",
+    "name": "독침붕",
+    "category": "pokemon",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "돌살이",
+    "name": "돌살이",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV4K",
+      "SV9a"
+    ]
+  },
+  {
+    "id": "돌핀맨",
+    "name": "돌핀맨",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a",
+      "SV5K",
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "돌핀맨 ex",
+    "name": "돌핀맨 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "돌헨진",
+    "name": "돌헨진",
+    "category": "pokemon",
+    "setIds": [
+      "M1L"
+    ]
+  },
+  {
+    "id": "동미러",
+    "name": "동미러",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV5K",
+      "SV8"
+    ]
+  },
+  {
+    "id": "동챙이",
+    "name": "동챙이",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B"
+    ]
+  },
+  {
+    "id": "동탁군",
+    "name": "동탁군",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV5K",
+      "SV8"
+    ]
+  },
+  {
+    "id": "두까비",
+    "name": "두까비",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B"
+    ]
+  },
+  {
+    "id": "두더류",
+    "name": "두더류",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV5M",
+      "SV7a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "두두",
+    "name": "두두",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "두드리짱",
+    "name": "두드리짱",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "SV4M",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "두랄루돈",
+    "name": "두랄루돈",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV7",
+      "SV7a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "두루지벌레",
+    "name": "두루지벌레",
+    "category": "pokemon",
+    "setIds": [
+      "SV4M"
+    ]
+  },
+  {
+    "id": "두르보",
+    "name": "두르보",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "두르쿤",
+    "name": "두르쿤",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "두리쥐",
+    "name": "두리쥐",
+    "category": "pokemon",
+    "setIds": [
+      "SV4M",
+      "SV4a",
+      "SV8"
+    ]
+  },
+  {
+    "id": "두빅굴",
+    "name": "두빅굴",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B"
+    ]
+  },
+  {
+    "id": "두코",
+    "name": "두코",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "두트리오",
+    "name": "두트리오",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "둔타",
+    "name": "둔타",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "SV4K"
+    ]
+  },
+  {
+    "id": "둥실라이드",
+    "name": "둥실라이드",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a",
+      "SV7"
+    ]
+  },
+  {
+    "id": "듀란",
+    "name": "듀란",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV5K"
+    ]
+  },
+  {
+    "id": "드니꽁",
+    "name": "드니꽁",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "드니차",
+    "name": "드니차",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "드닐레이브",
+    "name": "드닐레이브",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "드라꼰",
+    "name": "드라꼰",
+    "category": "pokemon",
+    "setIds": [
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "드래런치",
+    "name": "드래런치",
+    "category": "pokemon",
+    "setIds": [
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "드래펄트 ex",
+    "name": "드래펄트 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "드래피온",
+    "name": "드래피온",
+    "category": "pokemon",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "드레디어",
+    "name": "드레디어",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B"
+    ]
+  },
+  {
+    "id": "들눈해",
+    "name": "들눈해",
+    "category": "pokemon",
+    "setIds": [
+      "SV4M",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "디아루가",
+    "name": "디아루가",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "SV7a"
+    ]
+  },
+  {
+    "id": "디안시",
+    "name": "디안시",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "디헤드",
+    "name": "디헤드",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV8"
+    ]
+  },
+  {
+    "id": "딜리버드",
+    "name": "딜리버드",
+    "category": "pokemon",
+    "setIds": [
+      "M1S",
+      "M4"
+    ]
+  },
+  {
+    "id": "딥상어동",
+    "name": "딥상어동",
+    "category": "pokemon",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "딩루",
+    "name": "딩루",
+    "category": "pokemon",
+    "setIds": [
+      "SV4K",
+      "SV5a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "딩루 ex",
+    "name": "딩루 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "따라큐",
+    "name": "따라큐",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "딱정곤",
+    "name": "딱정곤",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV9"
+    ]
+  },
+  {
+    "id": "딱충이",
+    "name": "딱충이",
+    "category": "pokemon",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "땃주르",
+    "name": "땃주르",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "SV8"
+    ]
+  },
+  {
+    "id": "땃쭈르",
+    "name": "땃쭈르",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "땅을기는날개",
+    "name": "땅을기는날개",
+    "category": "pokemon",
+    "setIds": [
+      "SV4K",
+      "SV6a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "때때무노",
+    "name": "때때무노",
+    "category": "pokemon",
+    "setIds": [
+      "SV4K",
+      "SV7a"
+    ]
+  },
+  {
+    "id": "또가스",
+    "name": "또가스",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "또도가스",
+    "name": "또도가스",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "또르박쥐",
+    "name": "또르박쥐",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV4K"
+    ]
+  },
+  {
+    "id": "뚜꾸리",
+    "name": "뚜꾸리",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "뚜벅쵸",
+    "name": "뚜벅쵸",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "뜨아거",
+    "name": "뜨아거",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a",
+      "SV8"
+    ]
+  },
+  {
+    "id": "라란티스",
+    "name": "라란티스",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "라우드본",
+    "name": "라우드본",
+    "category": "pokemon",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "라우드본 ex",
+    "name": "라우드본 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "라이츄",
+    "name": "라이츄",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a",
+      "SV5M"
+    ]
+  },
+  {
+    "id": "라이코",
+    "name": "라이코",
+    "category": "pokemon",
+    "setIds": [
+      "M1S"
+    ]
+  },
+  {
+    "id": "라티아스 ex",
+    "name": "라티아스 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV7a"
+    ]
+  },
+  {
+    "id": "라티오스",
+    "name": "라티오스",
+    "category": "pokemon",
+    "setIds": [
+      "M1S",
+      "SV4K",
+      "SV7a"
+    ]
+  },
+  {
+    "id": "라프라스 ex",
+    "name": "라프라스 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "라플레시아",
+    "name": "라플레시아",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "란쿨루스",
+    "name": "란쿨루스",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV5K"
+    ]
+  },
+  {
+    "id": "랄토스",
+    "name": "랄토스",
+    "category": "pokemon",
+    "setIds": [
+      "M1S",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "래비풋",
+    "name": "래비풋",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "SV7"
+    ]
+  },
+  {
+    "id": "랜드로스",
+    "name": "랜드로스",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV11B",
+      "SV7a"
+    ]
+  },
+  {
+    "id": "랜턴",
+    "name": "랜턴",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "램프라",
+    "name": "램프라",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV6"
+    ]
+  },
+  {
+    "id": "러브로스",
+    "name": "러브로스",
+    "category": "pokemon",
+    "setIds": [
+      "SV5a"
+    ]
+  },
+  {
+    "id": "럭시오",
+    "name": "럭시오",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV4a",
+      "SV6"
+    ]
+  },
+  {
+    "id": "럭키",
+    "name": "럭키",
+    "category": "pokemon",
+    "setIds": [
+      "SV6"
+    ]
+  },
+  {
+    "id": "레돔벌레",
+    "name": "레돔벌레",
+    "category": "pokemon",
+    "setIds": [
+      "SV4M"
+    ]
+  },
+  {
+    "id": "레디바",
+    "name": "레디바",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "레디안",
+    "name": "레디안",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "레시라무",
+    "name": "레시라무",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV11W"
+    ]
+  },
+  {
+    "id": "레어코일",
+    "name": "레어코일",
+    "category": "pokemon",
+    "setIds": [
+      "M1S",
+      "SV8"
+    ]
+  },
+  {
+    "id": "레오꼬",
+    "name": "레오꼬",
+    "category": "pokemon",
+    "setIds": [
+      "M1S",
+      "M4"
+    ]
+  },
+  {
+    "id": "레지기가스",
+    "name": "레지기가스",
+    "category": "pokemon",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "레지락",
+    "name": "레지락",
+    "category": "pokemon",
+    "setIds": [
+      "SV10",
+      "SV9"
+    ]
+  },
+  {
+    "id": "레트라",
+    "name": "레트라",
+    "category": "pokemon",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "레파르다스",
+    "name": "레파르다스",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV4K"
+    ]
+  },
+  {
+    "id": "렌트라",
+    "name": "렌트라",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "렌트라 ex",
+    "name": "렌트라 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV6"
+    ]
+  },
+  {
+    "id": "로젤리아",
+    "name": "로젤리아",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K"
+    ]
+  },
+  {
+    "id": "로즈레이드",
+    "name": "로즈레이드",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K"
+    ]
+  },
+  {
+    "id": "로켓단의 골뱃",
+    "name": "로켓단의 골뱃",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 꼬렛",
+    "name": "로켓단의 꼬렛",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 나옹",
+    "name": "로켓단의 나옹",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 니드런♀",
+    "name": "로켓단의 니드런♀",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 니드런♂",
+    "name": "로켓단의 니드런♂",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 니드리나",
+    "name": "로켓단의 니드리나",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 니드리노",
+    "name": "로켓단의 니드리노",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 니드퀸",
+    "name": "로켓단의 니드퀸",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 니드킹",
+    "name": "로켓단의 니드킹",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 니로우",
+    "name": "로켓단의 니로우",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 데기라스",
+    "name": "로켓단의 데기라스",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 델빌",
+    "name": "로켓단의 델빌",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 두루지벌레",
+    "name": "로켓단의 두루지벌레",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 따라큐",
+    "name": "로켓단의 따라큐",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 또가스",
+    "name": "로켓단의 또가스",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 또도가스",
+    "name": "로켓단의 또도가스",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 랑딸랑",
+    "name": "로켓단의 랑딸랑",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 레돔벌레",
+    "name": "로켓단의 레돔벌레",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 레트라",
+    "name": "로켓단의 레트라",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 마기라스",
+    "name": "로켓단의 마기라스",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 마자용",
+    "name": "로켓단의 마자용",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 메리프",
+    "name": "로켓단의 메리프",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 뮤츠",
+    "name": "로켓단의 뮤츠",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 보송송",
+    "name": "로켓단의 보송송",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 슬리퍼",
+    "name": "로켓단의 슬리퍼",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 슬리프",
+    "name": "로켓단의 슬리프",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 썬더",
+    "name": "로켓단의 썬더",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 아보",
+    "name": "로켓단의 아보",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 아보크",
+    "name": "로켓단의 아보크",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 애버라스",
+    "name": "로켓단의 애버라스",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 이올브",
+    "name": "로켓단의 이올브",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 전룡",
+    "name": "로켓단의 전룡",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 주뱃",
+    "name": "로켓단의 주뱃",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 질뻐기",
+    "name": "로켓단의 질뻐기",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 질퍽이",
+    "name": "로켓단의 질퍽이",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 크로뱃",
+    "name": "로켓단의 크로뱃",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 타랜툴라",
+    "name": "로켓단의 타랜툴라",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 트래피더",
+    "name": "로켓단의 트래피더",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 파이어",
+    "name": "로켓단의 파이어",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 페르시온",
+    "name": "로켓단의 페르시온",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 포푸니",
+    "name": "로켓단의 포푸니",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 폴리곤",
+    "name": "로켓단의 폴리곤",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 폴리곤2",
+    "name": "로켓단의 폴리곤2",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 폴리곤Z",
+    "name": "로켓단의 폴리곤Z",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 프리져",
+    "name": "로켓단의 프리져",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 헬가",
+    "name": "로켓단의 헬가",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로토무",
+    "name": "로토무",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV8",
+      "SV9a"
+    ]
+  },
+  {
+    "id": "로토스",
+    "name": "로토스",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV9"
+    ]
+  },
+  {
+    "id": "로파파",
+    "name": "로파파",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV9"
+    ]
+  },
+  {
+    "id": "롱스톤",
+    "name": "롱스톤",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "SV4M"
+    ]
+  },
+  {
+    "id": "루가루암",
+    "name": "루가루암",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "루나톤",
+    "name": "루나톤",
+    "category": "pokemon",
+    "setIds": [
+      "M1L"
+    ]
+  },
+  {
+    "id": "루브도",
+    "name": "루브도",
+    "category": "pokemon",
+    "setIds": [
+      "M2"
+    ]
+  },
+  {
+    "id": "루주라",
+    "name": "루주라",
+    "category": "pokemon",
+    "setIds": [
+      "M1S",
+      "SV6"
+    ]
+  },
+  {
+    "id": "루차볼",
+    "name": "루차볼",
+    "category": "pokemon",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "루차불",
+    "name": "루차불",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a",
+      "SV5a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "루카리오",
+    "name": "루카리오",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "리그레",
+    "name": "리그레",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B"
+    ]
+  },
+  {
+    "id": "리아코",
+    "name": "리아코",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "리오르",
+    "name": "리오르",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "리자드",
+    "name": "리자드",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "리자몽 ex",
+    "name": "리자몽 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "리피아",
+    "name": "리피아",
+    "category": "pokemon",
+    "setIds": [
+      "SV5a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "리피아 ex",
+    "name": "리피아 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "릴리에의 삐삐",
+    "name": "릴리에의 삐삐",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "릴리에의 에리본",
+    "name": "릴리에의 에리본",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "릴리에의 에블리",
+    "name": "릴리에의 에블리",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "릴리에의 큐아링",
+    "name": "릴리에의 큐아링",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "릴리요",
+    "name": "릴리요",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "릴링",
+    "name": "릴링",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "마그마",
+    "name": "마그마",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "마그마그",
+    "name": "마그마그",
+    "category": "pokemon",
+    "setIds": [
+      "SV5M",
+      "SV5a"
+    ]
+  },
+  {
+    "id": "마그마번",
+    "name": "마그마번",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "마그비",
+    "name": "마그비",
+    "category": "pokemon",
+    "setIds": [
+      "SV4K"
+    ]
+  },
+  {
+    "id": "마그카르고",
+    "name": "마그카르고",
+    "category": "pokemon",
+    "setIds": [
+      "SV5M"
+    ]
+  },
+  {
+    "id": "마그카르고 ex",
+    "name": "마그카르고 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV5a"
+    ]
+  },
+  {
+    "id": "마기라스",
+    "name": "마기라스",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "마기아나",
+    "name": "마기아나",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "마디네",
+    "name": "마디네",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV6"
+    ]
+  },
+  {
+    "id": "마라카치",
+    "name": "마라카치",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV4K",
+      "SV9"
+    ]
+  },
+  {
+    "id": "마릴",
+    "name": "마릴",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K"
+    ]
+  },
+  {
+    "id": "마릴리",
+    "name": "마릴리",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K"
+    ]
+  },
+  {
+    "id": "마빌크",
+    "name": "마빌크",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "마샤도",
+    "name": "마샤도",
+    "category": "pokemon",
+    "setIds": [
+      "M1L"
+    ]
+  },
+  {
+    "id": "마셰이드",
+    "name": "마셰이드",
+    "category": "pokemon",
+    "setIds": [
+      "SV7a"
+    ]
+  },
+  {
+    "id": "마스카나",
+    "name": "마스카나",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "마스카나 ex",
+    "name": "마스카나 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "마임맨",
+    "name": "마임맨",
+    "category": "pokemon",
+    "setIds": [
+      "SV5M",
+      "SV9"
+    ]
+  },
+  {
+    "id": "마크탕",
+    "name": "마크탕",
+    "category": "pokemon",
+    "setIds": [
+      "M1L"
+    ]
+  },
+  {
+    "id": "마폭시",
+    "name": "마폭시",
+    "category": "pokemon",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "마피티프",
+    "name": "마피티프",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "마휘핑",
+    "name": "마휘핑",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "만마드",
+    "name": "만마드",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K",
+      "SV9a"
+    ]
+  },
+  {
+    "id": "만타인",
+    "name": "만타인",
+    "category": "pokemon",
+    "setIds": [
+      "M1S"
+    ]
+  },
+  {
+    "id": "맘모꾸리",
+    "name": "맘모꾸리",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV9"
+    ]
+  },
+  {
+    "id": "맘박쥐",
+    "name": "맘박쥐",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV4K"
+    ]
+  },
+  {
+    "id": "맘복치",
+    "name": "맘복치",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B"
+    ]
+  },
+  {
+    "id": "맛보돈",
+    "name": "맛보돈",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "망망이",
+    "name": "망망이",
+    "category": "pokemon",
+    "setIds": [
+      "M1S",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "망키",
+    "name": "망키",
+    "category": "pokemon",
+    "setIds": [
+      "SV10",
+      "SV4a",
+      "SV8"
+    ]
+  },
+  {
+    "id": "맨돌핀",
+    "name": "맨돌핀",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a",
+      "SV5K",
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "머드나기",
+    "name": "머드나기",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K",
+      "SV9a"
+    ]
+  },
+  {
+    "id": "멍파치",
+    "name": "멍파치",
+    "category": "pokemon",
+    "setIds": [
+      "M2"
+    ]
+  },
+  {
+    "id": "메가가디안",
+    "name": "메가가디안",
+    "category": "pokemon",
+    "setIds": [
+      "M1S"
+    ]
+  },
+  {
+    "id": "메가개굴닌자",
+    "name": "메가개굴닌자",
+    "category": "pokemon",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "메가눈설왕",
+    "name": "메가눈설왕",
+    "category": "pokemon",
+    "setIds": [
+      "M1S"
+    ]
+  },
+  {
+    "id": "메가니움",
+    "name": "메가니움",
+    "category": "pokemon",
+    "setIds": [
+      "M1S"
+    ]
+  },
+  {
+    "id": "메가드래캄",
+    "name": "메가드래캄",
+    "category": "pokemon",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "메가라티아스",
+    "name": "메가라티아스",
+    "category": "pokemon",
+    "setIds": [
+      "M1S"
+    ]
+  },
+  {
+    "id": "메가루카리오",
+    "name": "메가루카리오",
+    "category": "pokemon",
+    "setIds": [
+      "M1L"
+    ]
+  },
+  {
+    "id": "메가리자몽X",
+    "name": "메가리자몽X",
+    "category": "pokemon",
+    "setIds": [
+      "M2"
+    ]
+  },
+  {
+    "id": "메가무장조",
+    "name": "메가무장조",
+    "category": "pokemon",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "메가샤크니아",
+    "name": "메가샤크니아",
+    "category": "pokemon",
+    "setIds": [
+      "M2"
+    ]
+  },
+  {
+    "id": "메가썬더볼트",
+    "name": "메가썬더볼트",
+    "category": "pokemon",
+    "setIds": [
+      "M1S"
+    ]
+  },
+  {
+    "id": "메가아쿠스타",
+    "name": "메가아쿠스타",
+    "category": "pokemon",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "메가앱솔",
+    "name": "메가앱솔",
+    "category": "pokemon",
+    "setIds": [
+      "M1L"
+    ]
+  },
+  {
+    "id": "메가이상해꽃",
+    "name": "메가이상해꽃",
+    "category": "pokemon",
+    "setIds": [
+      "M1L"
+    ]
+  },
+  {
+    "id": "메가이어롭",
+    "name": "메가이어롭",
+    "category": "pokemon",
+    "setIds": [
+      "M2"
+    ]
+  },
+  {
+    "id": "메가입치트",
+    "name": "메가입치트",
+    "category": "pokemon",
+    "setIds": [
+      "M1L"
+    ]
+  },
+  {
+    "id": "메가자리",
+    "name": "메가자리",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "메가지가르데",
+    "name": "메가지가르데",
+    "category": "pokemon",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "메가캥카",
+    "name": "메가캥카",
+    "category": "pokemon",
+    "setIds": [
+      "M1S"
+    ]
+  },
+  {
+    "id": "메가폭타",
+    "name": "메가폭타",
+    "category": "pokemon",
+    "setIds": [
+      "M1L"
+    ]
+  },
+  {
+    "id": "메가플라엣테",
+    "name": "메가플라엣테",
+    "category": "pokemon",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "메가픽시",
+    "name": "메가픽시",
+    "category": "pokemon",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "메가헤라크로스",
+    "name": "메가헤라크로스",
+    "category": "pokemon",
+    "setIds": [
+      "M2"
+    ]
+  },
+  {
+    "id": "메가화염레오",
+    "name": "메가화염레오",
+    "category": "pokemon",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "메꾸리",
+    "name": "메꾸리",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV9"
+    ]
+  },
+  {
+    "id": "메더",
+    "name": "메더",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV8"
+    ]
+  },
+  {
+    "id": "메로엣타",
+    "name": "메로엣타",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B"
+    ]
+  },
+  {
+    "id": "메롱꿍",
+    "name": "메롱꿍",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "메리프",
+    "name": "메리프",
+    "category": "pokemon",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "메타그로스",
+    "name": "메타그로스",
+    "category": "pokemon",
+    "setIds": [
+      "M4",
+      "SV5M",
+      "SV9"
+    ]
+  },
+  {
+    "id": "메타몽",
+    "name": "메타몽",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "메탕",
+    "name": "메탕",
+    "category": "pokemon",
+    "setIds": [
+      "M4",
+      "SV5M",
+      "SV8a",
+      "SV9"
+    ]
+  },
+  {
+    "id": "메탕구",
+    "name": "메탕구",
+    "category": "pokemon",
+    "setIds": [
+      "M4",
+      "SV5M",
+      "SV8a",
+      "SV9"
+    ]
+  },
+  {
+    "id": "멜메탈",
+    "name": "멜메탈",
+    "category": "pokemon",
+    "setIds": [
+      "SV5M",
+      "SV7"
+    ]
+  },
+  {
+    "id": "멜탄",
+    "name": "멜탄",
+    "category": "pokemon",
+    "setIds": [
+      "SV5M",
+      "SV7"
+    ]
+  },
+  {
+    "id": "모노두",
+    "name": "모노두",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV8"
+    ]
+  },
+  {
+    "id": "모단단게",
+    "name": "모단단게",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "모래꿍",
+    "name": "모래꿍",
+    "category": "pokemon",
+    "setIds": [
+      "SV6",
+      "SV8"
+    ]
+  },
+  {
+    "id": "모래두지",
+    "name": "모래두지",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "SV6"
+    ]
+  },
+  {
+    "id": "모래성이당",
+    "name": "모래성이당",
+    "category": "pokemon",
+    "setIds": [
+      "SV6"
+    ]
+  },
+  {
+    "id": "모래성이당 ex",
+    "name": "모래성이당 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "모래털가죽",
+    "name": "모래털가죽",
+    "category": "pokemon",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "모래털가죽 ex",
+    "name": "모래털가죽 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4K",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "모르페코",
+    "name": "모르페코",
+    "category": "pokemon",
+    "setIds": [
+      "SV4K",
+      "SV5a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "모부기",
+    "name": "모부기",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K"
+    ]
+  },
+  {
+    "id": "모스노우",
+    "name": "모스노우",
+    "category": "pokemon",
+    "setIds": [
+      "M1S",
+      "SV5K"
+    ]
+  },
+  {
+    "id": "모아머",
+    "name": "모아머",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "모야모의 붐볼",
+    "name": "모야모의 붐볼",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "모야모의 빈나두",
+    "name": "모야모의 빈나두",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "모야모의 찌리리공",
+    "name": "모야모의 찌리리공",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "모야모의 찌리배리",
+    "name": "모야모의 찌리배리",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "모야모의 찌리비",
+    "name": "모야모의 찌리비",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "모야모의 찌리비크",
+    "name": "모야모의 찌리비크",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "모으령",
+    "name": "모으령",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "SV4a",
+      "SV7a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "모크나이퍼",
+    "name": "모크나이퍼",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV6a"
+    ]
+  },
+  {
+    "id": "모토마",
+    "name": "모토마",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "모토마 ex",
+    "name": "모토마 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV7a"
+    ]
+  },
+  {
+    "id": "목도리키텔",
+    "name": "목도리키텔",
+    "category": "pokemon",
+    "setIds": [
+      "M1S",
+      "SV5a",
+      "SV8"
+    ]
+  },
+  {
+    "id": "몬냥이",
+    "name": "몬냥이",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "몰드류",
+    "name": "몰드류",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV5M",
+      "SV7a"
+    ]
+  },
+  {
+    "id": "몽나",
+    "name": "몽나",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B"
+    ]
+  },
+  {
+    "id": "몽얌나",
+    "name": "몽얌나",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B"
+    ]
+  },
+  {
+    "id": "묘두기",
+    "name": "묘두기",
+    "category": "pokemon",
+    "setIds": [
+      "M1S",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "무쇠가시",
+    "name": "무쇠가시",
+    "category": "pokemon",
+    "setIds": [
+      "SV5M",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "무쇠가시 ex",
+    "name": "무쇠가시 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV5a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "무쇠감투",
+    "name": "무쇠감투",
+    "category": "pokemon",
+    "setIds": [
+      "SV7a"
+    ]
+  },
+  {
+    "id": "무쇠감투 ex",
+    "name": "무쇠감투 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV5M",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "무쇠독나방",
+    "name": "무쇠독나방",
+    "category": "pokemon",
+    "setIds": [
+      "SV4M",
+      "SV6a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "무쇠머리",
+    "name": "무쇠머리",
+    "category": "pokemon",
+    "setIds": [
+      "SV4M",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "무쇠무인",
+    "name": "무쇠무인",
+    "category": "pokemon",
+    "setIds": [
+      "SV5M"
+    ]
+  },
+  {
+    "id": "무쇠무인 ex",
+    "name": "무쇠무인 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4M",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "무쇠바퀴",
+    "name": "무쇠바퀴",
+    "category": "pokemon",
+    "setIds": [
+      "SV5M",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "무쇠바퀴 ex",
+    "name": "무쇠바퀴 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "무쇠보따리",
+    "name": "무쇠보따리",
+    "category": "pokemon",
+    "setIds": [
+      "SV4M",
+      "SV6",
+      "SV8",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "무쇠손 ex",
+    "name": "무쇠손 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4M",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "무쇠암석",
+    "name": "무쇠암석",
+    "category": "pokemon",
+    "setIds": [
+      "SV7",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "무쇠암석 ex",
+    "name": "무쇠암석 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV5M"
+    ]
+  },
+  {
+    "id": "무쇠잎새",
+    "name": "무쇠잎새",
+    "category": "pokemon",
+    "setIds": [
+      "SV5a"
+    ]
+  },
+  {
+    "id": "무쇠잎새 ex",
+    "name": "무쇠잎새 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV5M",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "무스틈니",
+    "name": "무스틈니",
+    "category": "pokemon",
+    "setIds": [
+      "M4",
+      "SV7"
+    ]
+  },
+  {
+    "id": "무우마",
+    "name": "무우마",
+    "category": "pokemon",
+    "setIds": [
+      "M2"
+    ]
+  },
+  {
+    "id": "무우마직",
+    "name": "무우마직",
+    "category": "pokemon",
+    "setIds": [
+      "M2"
+    ]
+  },
+  {
+    "id": "무장조",
+    "name": "무장조",
+    "category": "pokemon",
+    "setIds": [
+      "SV10",
+      "SV6",
+      "SV7a"
+    ]
+  },
+  {
+    "id": "무한다이노",
+    "name": "무한다이노",
+    "category": "pokemon",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "뮤 ex",
+    "name": "뮤 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "미끄네일",
+    "name": "미끄네일",
+    "category": "pokemon",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "미끄래곤",
+    "name": "미끄래곤",
+    "category": "pokemon",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "미끄메라",
+    "name": "미끄메라",
+    "category": "pokemon",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "미니브",
+    "name": "미니브",
+    "category": "pokemon",
+    "setIds": [
+      "SV10",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "미라몽",
+    "name": "미라몽",
+    "category": "pokemon",
+    "setIds": [
+      "SV6a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "미라이돈",
+    "name": "미라이돈",
+    "category": "pokemon",
+    "setIds": [
+      "SV5M",
+      "SV8",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "미라이돈 ex",
+    "name": "미라이돈 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "밀로틱",
+    "name": "밀로틱",
+    "category": "pokemon",
+    "setIds": [
+      "SV4M",
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "밀로틱 ex",
+    "name": "밀로틱 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "밀탱크",
+    "name": "밀탱크",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "SV4M"
+    ]
+  },
+  {
+    "id": "바닐리치",
+    "name": "바닐리치",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV4M"
+    ]
+  },
+  {
+    "id": "바닐프티",
+    "name": "바닐프티",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV4M"
+    ]
+  },
+  {
+    "id": "바다그다",
+    "name": "바다그다",
+    "category": "pokemon",
+    "setIds": [
+      "SV4K",
+      "SV4a",
+      "SV5K",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "바닥트리오",
+    "name": "바닥트리오",
+    "category": "pokemon",
+    "setIds": [
+      "SV4K",
+      "SV4a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "바닥트리오 ex",
+    "name": "바닥트리오 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K"
+    ]
+  },
+  {
+    "id": "바라철록",
+    "name": "바라철록",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV5M"
+    ]
+  },
+  {
+    "id": "바랜드",
+    "name": "바랜드",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "바오키",
+    "name": "바오키",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV4M",
+      "SV7a"
+    ]
+  },
+  {
+    "id": "바오프",
+    "name": "바오프",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV4M",
+      "SV7a"
+    ]
+  },
+  {
+    "id": "바우첼",
+    "name": "바우첼",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "바우첼 ex",
+    "name": "바우첼 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "발바로",
+    "name": "발바로",
+    "category": "pokemon",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "발챙이",
+    "name": "발챙이",
+    "category": "pokemon",
+    "setIds": [
+      "SV6"
+    ]
+  },
+  {
+    "id": "배루키",
+    "name": "배루키",
+    "category": "pokemon",
+    "setIds": [
+      "M1L"
+    ]
+  },
+  {
+    "id": "배바닐라",
+    "name": "배바닐라",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV4M"
+    ]
+  },
+  {
+    "id": "배쓰나이",
+    "name": "배쓰나이",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "배우르",
+    "name": "배우르",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "백솜모카",
+    "name": "백솜모카",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "버랜지나",
+    "name": "버랜지나",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B"
+    ]
+  },
+  {
+    "id": "버섯꼬",
+    "name": "버섯꼬",
+    "category": "pokemon",
+    "setIds": [
+      "SV10",
+      "SV5M"
+    ]
+  },
+  {
+    "id": "버섯모",
+    "name": "버섯모",
+    "category": "pokemon",
+    "setIds": [
+      "SV10",
+      "SV5M"
+    ]
+  },
+  {
+    "id": "버터플",
+    "name": "버터플",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "버프론",
+    "name": "버프론",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV7",
+      "SV8",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "번치코",
+    "name": "번치코",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "벌차이",
+    "name": "벌차이",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B"
+    ]
+  },
+  {
+    "id": "베라카스",
+    "name": "베라카스",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a",
+      "SV5M",
+      "SV8",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "베베솔트",
+    "name": "베베솔트",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "SV4K",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "베이리프",
+    "name": "베이리프",
+    "category": "pokemon",
+    "setIds": [
+      "M1S"
+    ]
+  },
+  {
+    "id": "벰크",
+    "name": "벰크",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B"
+    ]
+  },
+  {
+    "id": "벼리짱",
+    "name": "벼리짱",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "SV4M",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "별가사리",
+    "name": "별가사리",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "보르그",
+    "name": "보르그",
+    "category": "pokemon",
+    "setIds": [
+      "M4",
+      "SV11W"
+    ]
+  },
+  {
+    "id": "보르쥐",
+    "name": "보르쥐",
+    "category": "pokemon",
+    "setIds": [
+      "M4",
+      "SV11W"
+    ]
+  },
+  {
+    "id": "보만다",
+    "name": "보만다",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "보송송",
+    "name": "보송송",
+    "category": "pokemon",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "보스로라",
+    "name": "보스로라",
+    "category": "pokemon",
+    "setIds": [
+      "SV6"
+    ]
+  },
+  {
+    "id": "복숭악동",
+    "name": "복숭악동",
+    "category": "pokemon",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "복숭악동 ex",
+    "name": "복숭악동 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV6a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "볼비트",
+    "name": "볼비트",
+    "category": "pokemon",
+    "setIds": [
+      "SV6"
+    ]
+  },
+  {
+    "id": "볼케니온",
+    "name": "볼케니온",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "M3",
+      "SV9"
+    ]
+  },
+  {
+    "id": "볼트로스",
+    "name": "볼트로스",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "부란다",
+    "name": "부란다",
+    "category": "pokemon",
+    "setIds": [
+      "SV7",
+      "SV9"
+    ]
+  },
+  {
+    "id": "부르롱",
+    "name": "부르롱",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a",
+      "SV6",
+      "SV6a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "부르르룸",
+    "name": "부르르룸",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a",
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "부르르룸 ex",
+    "name": "부르르룸 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV6a"
+    ]
+  },
+  {
+    "id": "부스터",
+    "name": "부스터",
+    "category": "pokemon",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "부스터 ex",
+    "name": "부스터 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "부우부",
+    "name": "부우부",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K",
+      "SV7",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "분떠도리",
+    "name": "분떠도리",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV8"
+    ]
+  },
+  {
+    "id": "분이벌레",
+    "name": "분이벌레",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV8"
+    ]
+  },
+  {
+    "id": "분홍장이",
+    "name": "분홍장이",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "불꽃숭이",
+    "name": "불꽃숭이",
+    "category": "pokemon",
+    "setIds": [
+      "SV5a"
+    ]
+  },
+  {
+    "id": "불비달마",
+    "name": "불비달마",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV11B",
+      "SV6"
+    ]
+  },
+  {
+    "id": "불카모스",
+    "name": "불카모스",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV8"
+    ]
+  },
+  {
+    "id": "불켜미",
+    "name": "불켜미",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV6"
+    ]
+  },
+  {
+    "id": "불화살빈",
+    "name": "불화살빈",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV7"
+    ]
+  },
+  {
+    "id": "붐볼",
+    "name": "붐볼",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "브라두라스",
+    "name": "브라두라스",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "브리가론",
+    "name": "브리가론",
+    "category": "pokemon",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "브리두라스",
+    "name": "브리두라스",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "브리두라스 ex",
+    "name": "브리두라스 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV7a"
+    ]
+  },
+  {
+    "id": "브이젤",
+    "name": "브이젤",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "블래키",
+    "name": "블래키",
+    "category": "pokemon",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "블래키 ex",
+    "name": "블래키 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "블랙큐레무 ex",
+    "name": "블랙큐레무 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV7a"
+    ]
+  },
+  {
+    "id": "블로스터",
+    "name": "블로스터",
+    "category": "pokemon",
+    "setIds": [
+      "M1S"
+    ]
+  },
+  {
+    "id": "비구술",
+    "name": "비구술",
+    "category": "pokemon",
+    "setIds": [
+      "SV4M"
+    ]
+  },
+  {
+    "id": "비나방",
+    "name": "비나방",
+    "category": "pokemon",
+    "setIds": [
+      "SV4M"
+    ]
+  },
+  {
+    "id": "비리디온",
+    "name": "비리디온",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "비브라바",
+    "name": "비브라바",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV7a"
+    ]
+  },
+  {
+    "id": "비비용",
+    "name": "비비용",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV8"
+    ]
+  },
+  {
+    "id": "비조도",
+    "name": "비조도",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV4K",
+      "SV7"
+    ]
+  },
+  {
+    "id": "비조푸",
+    "name": "비조푸",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV4K",
+      "SV7"
+    ]
+  },
+  {
+    "id": "비크티니",
+    "name": "비크티니",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV5M",
+      "SV8"
+    ]
+  },
+  {
+    "id": "빈나두",
+    "name": "빈나두",
+    "category": "pokemon",
+    "setIds": [
+      "SV5a"
+    ]
+  },
+  {
+    "id": "빈티나",
+    "name": "빈티나",
+    "category": "pokemon",
+    "setIds": [
+      "SV4M",
+      "SV6",
+      "SV8",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "빙큐보",
+    "name": "빙큐보",
+    "category": "pokemon",
+    "setIds": [
+      "M1S"
+    ]
+  },
+  {
+    "id": "빠르모트",
+    "name": "빠르모트",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "빠모",
+    "name": "빠모",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "빠모트",
+    "name": "빠모트",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "빼미스로우",
+    "name": "빼미스로우",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV6a"
+    ]
+  },
+  {
+    "id": "뽀록나",
+    "name": "뽀록나",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B"
+    ]
+  },
+  {
+    "id": "뽀뽀라",
+    "name": "뽀뽀라",
+    "category": "pokemon",
+    "setIds": [
+      "SV7a"
+    ]
+  },
+  {
+    "id": "뿔충이",
+    "name": "뿔충이",
+    "category": "pokemon",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "뿔카노",
+    "name": "뿔카노",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "쁘사이저",
+    "name": "쁘사이저",
+    "category": "pokemon",
+    "setIds": [
+      "SV5a"
+    ]
+  },
+  {
+    "id": "삐",
+    "name": "삐",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "삐딱구리",
+    "name": "삐딱구리",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "SV6a"
+    ]
+  },
+  {
+    "id": "삐삐",
+    "name": "삐삐",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV6"
+    ]
+  },
+  {
+    "id": "사나운버섯",
+    "name": "사나운버섯",
+    "category": "pokemon",
+    "setIds": [
+      "SV4K",
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "사철록",
+    "name": "사철록",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV5M"
+    ]
+  },
+  {
+    "id": "삼삼드래",
+    "name": "삼삼드래",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "삼삼드래 ex",
+    "name": "삼삼드래 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "샤로다",
+    "name": "샤로다",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV11B"
+    ]
+  },
+  {
+    "id": "샤미드",
+    "name": "샤미드",
+    "category": "pokemon",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "샤미드 ex",
+    "name": "샤미드 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "샤비",
+    "name": "샤비",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV11B"
+    ]
+  },
+  {
+    "id": "샤크니아",
+    "name": "샤크니아",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K"
+    ]
+  },
+  {
+    "id": "샤프니아",
+    "name": "샤프니아",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV5K"
+    ]
+  },
+  {
+    "id": "샹델라",
+    "name": "샹델라",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV6"
+    ]
+  },
+  {
+    "id": "석탄산",
+    "name": "석탄산",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K"
+    ]
+  },
+  {
+    "id": "성원숭",
+    "name": "성원숭",
+    "category": "pokemon",
+    "setIds": [
+      "SV10",
+      "SV4a",
+      "SV8"
+    ]
+  },
+  {
+    "id": "세레비",
+    "name": "세레비",
+    "category": "pokemon",
+    "setIds": [
+      "M1L"
+    ]
+  },
+  {
+    "id": "세비퍼",
+    "name": "세비퍼",
+    "category": "pokemon",
+    "setIds": [
+      "M2"
+    ]
+  },
+  {
+    "id": "소곤룡",
+    "name": "소곤룡",
+    "category": "pokemon",
+    "setIds": [
+      "SV4K"
+    ]
+  },
+  {
+    "id": "소미안",
+    "name": "소미안",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV11W",
+      "SV5K",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "솔록",
+    "name": "솔록",
+    "category": "pokemon",
+    "setIds": [
+      "M1L"
+    ]
+  },
+  {
+    "id": "솜솜코",
+    "name": "솜솜코",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "수댕이",
+    "name": "수댕이",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "수레기",
+    "name": "수레기",
+    "category": "pokemon",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "수리둥보",
+    "name": "수리둥보",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV7a"
+    ]
+  },
+  {
+    "id": "수풀부기",
+    "name": "수풀부기",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K"
+    ]
+  },
+  {
+    "id": "쉐이미",
+    "name": "쉐이미",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV5K",
+      "SV9a"
+    ]
+  },
+  {
+    "id": "쉘곤",
+    "name": "쉘곤",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "슈륙챙이",
+    "name": "슈륙챙이",
+    "category": "pokemon",
+    "setIds": [
+      "SV6"
+    ]
+  },
+  {
+    "id": "슈바르고",
+    "name": "슈바르고",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV9"
+    ]
+  },
+  {
+    "id": "슈쁘",
+    "name": "슈쁘",
+    "category": "pokemon",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "스라크",
+    "name": "스라크",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a",
+      "SV5M"
+    ]
+  },
+  {
+    "id": "스완나",
+    "name": "스완나",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV6"
+    ]
+  },
+  {
+    "id": "스왈로",
+    "name": "스왈로",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "스이쿤",
+    "name": "스이쿤",
+    "category": "pokemon",
+    "setIds": [
+      "M2"
+    ]
+  },
+  {
+    "id": "스컹뿡",
+    "name": "스컹뿡",
+    "category": "pokemon",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "스컹탱크",
+    "name": "스컹탱크",
+    "category": "pokemon",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "스코빌런",
+    "name": "스코빌런",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "스코빌런 ex",
+    "name": "스코빌런 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "스콜피",
+    "name": "스콜피",
+    "category": "pokemon",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "스태솔트",
+    "name": "스태솔트",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "SV4K",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "스트린더",
+    "name": "스트린더",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "스트린더 ex",
+    "name": "스트린더 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4M"
+    ]
+  },
+  {
+    "id": "스핀로토무",
+    "name": "스핀로토무",
+    "category": "pokemon",
+    "setIds": [
+      "SV7",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "슬리퍼",
+    "name": "슬리퍼",
+    "category": "pokemon",
+    "setIds": [
+      "SV6a"
+    ]
+  },
+  {
+    "id": "슬리프",
+    "name": "슬리프",
+    "category": "pokemon",
+    "setIds": [
+      "SV6a"
+    ]
+  },
+  {
+    "id": "시드라",
+    "name": "시드라",
+    "category": "pokemon",
+    "setIds": [
+      "SV4K",
+      "SV6a"
+    ]
+  },
+  {
+    "id": "시라칸",
+    "name": "시라칸",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "시비꼬",
+    "name": "시비꼬",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "시비꼬 ex",
+    "name": "시비꼬 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "식스테일",
+    "name": "식스테일",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "M4",
+      "SV5a"
+    ]
+  },
+  {
+    "id": "심보러",
+    "name": "심보러",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "심향의 꼬지모",
+    "name": "심향의 꼬지모",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "심향의 마그마그",
+    "name": "심향의 마그마그",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "심향의 마그카르고",
+    "name": "심향의 마그카르고",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "심향의 마그케인",
+    "name": "심향의 마그케인",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "심향의 브케인",
+    "name": "심향의 브케인",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "심향의 블레이범",
+    "name": "심향의 블레이범",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "심향의 쁘사이저",
+    "name": "심향의 쁘사이저",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "심향의 칠색조",
+    "name": "심향의 칠색조",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "심향의 피츄",
+    "name": "심향의 피츄",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "싸리용",
+    "name": "싸리용",
+    "category": "pokemon",
+    "setIds": [
+      "SV4M",
+      "SV4a",
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "싸리용 ex",
+    "name": "싸리용 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "쌍검자비",
+    "name": "쌍검자비",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "쌍검킬",
+    "name": "쌍검킬",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV4M",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "쌔비냥",
+    "name": "쌔비냥",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV4K"
+    ]
+  },
+  {
+    "id": "썬더",
+    "name": "썬더",
+    "category": "pokemon",
+    "setIds": [
+      "SV5a"
+    ]
+  },
+  {
+    "id": "썬더라이",
+    "name": "썬더라이",
+    "category": "pokemon",
+    "setIds": [
+      "M1S",
+      "SV9a"
+    ]
+  },
+  {
+    "id": "썬더볼트",
+    "name": "썬더볼트",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "쏘겨모",
+    "name": "쏘겨모",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "쏘드라",
+    "name": "쏘드라",
+    "category": "pokemon",
+    "setIds": [
+      "SV4K",
+      "SV6a"
+    ]
+  },
+  {
+    "id": "쏘콘",
+    "name": "쏘콘",
+    "category": "pokemon",
+    "setIds": [
+      "SV10",
+      "SV5M"
+    ]
+  },
+  {
+    "id": "쏘콘 ex",
+    "name": "쏘콘 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "씨레오",
+    "name": "씨레오",
+    "category": "pokemon",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "씨카이저",
+    "name": "씨카이저",
+    "category": "pokemon",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "아공이",
+    "name": "아공이",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "아그놈",
+    "name": "아그놈",
+    "category": "pokemon",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "아꾸왁",
+    "name": "아꾸왁",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a",
+      "SV7a"
+    ]
+  },
+  {
+    "id": "아라리",
+    "name": "아라리",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "SV7a",
+      "SV8"
+    ]
+  },
+  {
+    "id": "아리아도스",
+    "name": "아리아도스",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV5a"
+    ]
+  },
+  {
+    "id": "아마루르가",
+    "name": "아마루르가",
+    "category": "pokemon",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "아마루스",
+    "name": "아마루스",
+    "category": "pokemon",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "아보",
+    "name": "아보",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K"
+    ]
+  },
+  {
+    "id": "아보크",
+    "name": "아보크",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K"
+    ]
+  },
+  {
+    "id": "아이스크",
+    "name": "아이스크",
+    "category": "pokemon",
+    "setIds": [
+      "M1S"
+    ]
+  },
+  {
+    "id": "아이앤트",
+    "name": "아이앤트",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV4M"
+    ]
+  },
+  {
+    "id": "아이앤트 ex",
+    "name": "아이앤트 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "아차모",
+    "name": "아차모",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "아케오스",
+    "name": "아케오스",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "아켄",
+    "name": "아켄",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "아쿠스타",
+    "name": "아쿠스타",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "악뜨거",
+    "name": "악뜨거",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a",
+      "SV8"
+    ]
+  },
+  {
+    "id": "악비르",
+    "name": "악비르",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV11B"
+    ]
+  },
+  {
+    "id": "악비아르",
+    "name": "악비아르",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV11B"
+    ]
+  },
+  {
+    "id": "알로라 나시 ex",
+    "name": "알로라 나시 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV7a"
+    ]
+  },
+  {
+    "id": "알로라 닥트리오",
+    "name": "알로라 닥트리오",
+    "category": "pokemon",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "알로라 디그다",
+    "name": "알로라 디그다",
+    "category": "pokemon",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "암멍이",
+    "name": "암멍이",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "암트르",
+    "name": "암트르",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "암팰리스",
+    "name": "암팰리스",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV4K",
+      "SV9a"
+    ]
+  },
+  {
+    "id": "앗차키",
+    "name": "앗차키",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV4M"
+    ]
+  },
+  {
+    "id": "앗차프",
+    "name": "앗차프",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV4M"
+    ]
+  },
+  {
+    "id": "애버라스",
+    "name": "애버라스",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "애프룡",
+    "name": "애프룡",
+    "category": "pokemon",
+    "setIds": [
+      "SV7a"
+    ]
+  },
+  {
+    "id": "액스라이즈",
+    "name": "액스라이즈",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV6a"
+    ]
+  },
+  {
+    "id": "액슨도",
+    "name": "액슨도",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV6a"
+    ]
+  },
+  {
+    "id": "앤테이",
+    "name": "앤테이",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "앤티골",
+    "name": "앤티골",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV5K"
+    ]
+  },
+  {
+    "id": "앱솔",
+    "name": "앱솔",
+    "category": "pokemon",
+    "setIds": [
+      "SV6a"
+    ]
+  },
+  {
+    "id": "야나키",
+    "name": "야나키",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV4K"
+    ]
+  },
+  {
+    "id": "야나프",
+    "name": "야나프",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV4K"
+    ]
+  },
+  {
+    "id": "야느와르몽",
+    "name": "야느와르몽",
+    "category": "pokemon",
+    "setIds": [
+      "SV6a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "야도뇽",
+    "name": "야도뇽",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV7"
+    ]
+  },
+  {
+    "id": "야도란",
+    "name": "야도란",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "야도킹",
+    "name": "야도킹",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "야돈",
+    "name": "야돈",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a",
+      "SV7"
+    ]
+  },
+  {
+    "id": "야부엉",
+    "name": "야부엉",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K",
+      "SV7",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "어둠대신",
+    "name": "어둠대신",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "어리짱",
+    "name": "어리짱",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "SV4M",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "어써러셔",
+    "name": "어써러셔",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a",
+      "SV9a"
+    ]
+  },
+  {
+    "id": "어지리더",
+    "name": "어지리더",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV9"
+    ]
+  },
+  {
+    "id": "어흥염",
+    "name": "어흥염",
+    "category": "pokemon",
+    "setIds": [
+      "SV5M"
+    ]
+  },
+  {
+    "id": "얼루기",
+    "name": "얼루기",
+    "category": "pokemon",
+    "setIds": [
+      "SV4K"
+    ]
+  },
+  {
+    "id": "얼음귀신",
+    "name": "얼음귀신",
+    "category": "pokemon",
+    "setIds": [
+      "SV6"
+    ]
+  },
+  {
+    "id": "에나비",
+    "name": "에나비",
+    "category": "pokemon",
+    "setIds": [
+      "SV5M"
+    ]
+  },
+  {
+    "id": "에레브",
+    "name": "에레브",
+    "category": "pokemon",
+    "setIds": [
+      "SV5M",
+      "SV7",
+      "SV9a"
+    ]
+  },
+  {
+    "id": "에레키드",
+    "name": "에레키드",
+    "category": "pokemon",
+    "setIds": [
+      "SV4M"
+    ]
+  },
+  {
+    "id": "에레키블",
+    "name": "에레키블",
+    "category": "pokemon",
+    "setIds": [
+      "SV5M",
+      "SV7",
+      "SV9a"
+    ]
+  },
+  {
+    "id": "에리본",
+    "name": "에리본",
+    "category": "pokemon",
+    "setIds": [
+      "SV5M"
+    ]
+  },
+  {
+    "id": "에몽가",
+    "name": "에몽가",
+    "category": "pokemon",
+    "setIds": [
+      "M4",
+      "SV11B",
+      "SV6"
+    ]
+  },
+  {
+    "id": "에브이",
+    "name": "에브이",
+    "category": "pokemon",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "에브이 ex",
+    "name": "에브이 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "에블리",
+    "name": "에블리",
+    "category": "pokemon",
+    "setIds": [
+      "SV5M"
+    ]
+  },
+  {
+    "id": "에써르",
+    "name": "에써르",
+    "category": "pokemon",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "에이스번",
+    "name": "에이스번",
+    "category": "pokemon",
+    "setIds": [
+      "M1L"
+    ]
+  },
+  {
+    "id": "에이스번 ex",
+    "name": "에이스번 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "에이팜",
+    "name": "에이팜",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV4M",
+      "SV6"
+    ]
+  },
+  {
+    "id": "엑스레그",
+    "name": "엑스레그",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV4K"
+    ]
+  },
+  {
+    "id": "엘리게이",
+    "name": "엘리게이",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "엘풍",
+    "name": "엘풍",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV11W",
+      "SV5K",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "엠라이트",
+    "name": "엠라이트",
+    "category": "pokemon",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "엠페르트",
+    "name": "엠페르트",
+    "category": "pokemon",
+    "setIds": [
+      "M2"
+    ]
+  },
+  {
+    "id": "연꽃몬",
+    "name": "연꽃몬",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV9"
+    ]
+  },
+  {
+    "id": "염뉴트",
+    "name": "염뉴트",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV7"
+    ]
+  },
+  {
+    "id": "염무왕",
+    "name": "염무왕",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "염버니",
+    "name": "염버니",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "SV7"
+    ]
+  },
+  {
+    "id": "영구스",
+    "name": "영구스",
+    "category": "pokemon",
+    "setIds": [
+      "M1L"
+    ]
+  },
+  {
+    "id": "영치코",
+    "name": "영치코",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "오거폰 벽록의 가면",
+    "name": "오거폰 벽록의 가면",
+    "category": "pokemon",
+    "setIds": [
+      "SV6",
+      "SV9a"
+    ]
+  },
+  {
+    "id": "오거폰 벽록의 가면 ex",
+    "name": "오거폰 벽록의 가면 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "오거폰 우물의 가면",
+    "name": "오거폰 우물의 가면",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "오거폰 우물의 가면 ex",
+    "name": "오거폰 우물의 가면 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "오거폰 주춧돌의 가면",
+    "name": "오거폰 주춧돌의 가면",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "오거폰 주춧돌의 가면 ex",
+    "name": "오거폰 주춧돌의 가면 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "오거폰 화덕의 가면",
+    "name": "오거폰 화덕의 가면",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "오거폰 화덕의 가면 ex",
+    "name": "오거폰 화덕의 가면 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "오기지게",
+    "name": "오기지게",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "오뚝군",
+    "name": "오뚝군",
+    "category": "pokemon",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "오라티프",
+    "name": "오라티프",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "오롱털",
+    "name": "오롱털",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "오케이징",
+    "name": "오케이징",
+    "category": "pokemon",
+    "setIds": [
+      "SV6a"
+    ]
+  },
+  {
+    "id": "올리뇨",
+    "name": "올리뇨",
+    "category": "pokemon",
+    "setIds": [
+      "SV10",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "올리르바",
+    "name": "올리르바",
+    "category": "pokemon",
+    "setIds": [
+      "SV10",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "완철포",
+    "name": "완철포",
+    "category": "pokemon",
+    "setIds": [
+      "M1S"
+    ]
+  },
+  {
+    "id": "왕자리",
+    "name": "왕자리",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "왕콘치",
+    "name": "왕콘치",
+    "category": "pokemon",
+    "setIds": [
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "요가랑",
+    "name": "요가랑",
+    "category": "pokemon",
+    "setIds": [
+      "SV10",
+      "SV5M",
+      "SV7"
+    ]
+  },
+  {
+    "id": "요가램",
+    "name": "요가램",
+    "category": "pokemon",
+    "setIds": [
+      "SV10",
+      "SV5M"
+    ]
+  },
+  {
+    "id": "요가램 ex",
+    "name": "요가램 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "요씽리스",
+    "name": "요씽리스",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "요테리",
+    "name": "요테리",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "우락고래",
+    "name": "우락고래",
+    "category": "pokemon",
+    "setIds": [
+      "SV10",
+      "SV7a"
+    ]
+  },
+  {
+    "id": "우렁찬꼬리",
+    "name": "우렁찬꼬리",
+    "category": "pokemon",
+    "setIds": [
+      "SV4K",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "우렁찬꼬리 ex",
+    "name": "우렁찬꼬리 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV5a"
+    ]
+  },
+  {
+    "id": "우르",
+    "name": "우르",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "울머기",
+    "name": "울머기",
+    "category": "pokemon",
+    "setIds": [
+      "M1S"
+    ]
+  },
+  {
+    "id": "워글",
+    "name": "워글",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV7a"
+    ]
+  },
+  {
+    "id": "워시로토무",
+    "name": "워시로토무",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "웨이니발",
+    "name": "웨이니발",
+    "category": "pokemon",
+    "setIds": [
+      "SV7a"
+    ]
+  },
+  {
+    "id": "웨이니발 ex",
+    "name": "웨이니발 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "위대한엄니",
+    "name": "위대한엄니",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "위대한엄니 ex",
+    "name": "위대한엄니 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "위유이",
+    "name": "위유이",
+    "category": "pokemon",
+    "setIds": [
+      "M1S",
+      "SV4K",
+      "SV5a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "위유이 ex",
+    "name": "위유이 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "윈디",
+    "name": "윈디",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "유니란",
+    "name": "유니란",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV5K"
+    ]
+  },
+  {
+    "id": "유크시",
+    "name": "유크시",
+    "category": "pokemon",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "유토브",
+    "name": "유토브",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV5M"
+    ]
+  },
+  {
+    "id": "육파리",
+    "name": "육파리",
+    "category": "pokemon",
+    "setIds": [
+      "SV4M"
+    ]
+  },
+  {
+    "id": "육파리 ex",
+    "name": "육파리 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "윤겔라",
+    "name": "윤겔라",
+    "category": "pokemon",
+    "setIds": [
+      "M1S",
+      "SV4a",
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "으랏차",
+    "name": "으랏차",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV6"
+    ]
+  },
+  {
+    "id": "윽우지",
+    "name": "윽우지",
+    "category": "pokemon",
+    "setIds": [
+      "SV5a"
+    ]
+  },
+  {
+    "id": "음뱃",
+    "name": "음뱃",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a",
+      "SV9"
+    ]
+  },
+  {
+    "id": "음번",
+    "name": "음번",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "음번 ex",
+    "name": "음번 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "이벨타르",
+    "name": "이벨타르",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "M3",
+      "SV6a"
+    ]
+  },
+  {
+    "id": "이브이",
+    "name": "이브이",
+    "category": "pokemon",
+    "setIds": [
+      "SV5a",
+      "SV6a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "이브이 ex",
+    "name": "이브이 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "이븐곰",
+    "name": "이븐곰",
+    "category": "pokemon",
+    "setIds": [
+      "M1S",
+      "SV6a"
+    ]
+  },
+  {
+    "id": "이상해씨",
+    "name": "이상해씨",
+    "category": "pokemon",
+    "setIds": [
+      "M1L"
+    ]
+  },
+  {
+    "id": "이상해풀",
+    "name": "이상해풀",
+    "category": "pokemon",
+    "setIds": [
+      "M1L"
+    ]
+  },
+  {
+    "id": "이슬의 갸라도스",
+    "name": "이슬의 갸라도스",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "이슬의 고라파덕",
+    "name": "이슬의 고라파덕",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "이슬의 라프라스",
+    "name": "이슬의 라프라스",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "이슬의 별가사리",
+    "name": "이슬의 별가사리",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "이슬의 아쿠스타",
+    "name": "이슬의 아쿠스타",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "이슬의 잉어킹",
+    "name": "이슬의 잉어킹",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "이야후",
+    "name": "이야후",
+    "category": "pokemon",
+    "setIds": [
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "이야후 ex",
+    "name": "이야후 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV6a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "이어롤",
+    "name": "이어롤",
+    "category": "pokemon",
+    "setIds": [
+      "M1S",
+      "M2"
+    ]
+  },
+  {
+    "id": "이어롭",
+    "name": "이어롭",
+    "category": "pokemon",
+    "setIds": [
+      "M1S"
+    ]
+  },
+  {
+    "id": "이올브",
+    "name": "이올브",
+    "category": "pokemon",
+    "setIds": [
+      "SV4M"
+    ]
+  },
+  {
+    "id": "인텔리레온",
+    "name": "인텔리레온",
+    "category": "pokemon",
+    "setIds": [
+      "M1S"
+    ]
+  },
+  {
+    "id": "일레도리자드",
+    "name": "일레도리자드",
+    "category": "pokemon",
+    "setIds": [
+      "M1S",
+      "SV5a",
+      "SV8"
+    ]
+  },
+  {
+    "id": "일레즌",
+    "name": "일레즌",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV4M",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "입치트",
+    "name": "입치트",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV5M"
+    ]
+  },
+  {
+    "id": "잎새코",
+    "name": "잎새코",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "SV5M"
+    ]
+  },
+  {
+    "id": "자루도",
+    "name": "자루도",
+    "category": "pokemon",
+    "setIds": [
+      "SV7a"
+    ]
+  },
+  {
+    "id": "자마슈",
+    "name": "자마슈",
+    "category": "pokemon",
+    "setIds": [
+      "SV7a"
+    ]
+  },
+  {
+    "id": "자마젠타",
+    "name": "자마젠타",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "자말라",
+    "name": "자말라",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "자망칼",
+    "name": "자망칼",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "자시안",
+    "name": "자시안",
+    "category": "pokemon",
+    "setIds": [
+      "M2"
+    ]
+  },
+  {
+    "id": "자포코일",
+    "name": "자포코일",
+    "category": "pokemon",
+    "setIds": [
+      "M1S",
+      "SV8"
+    ]
+  },
+  {
+    "id": "잠만보",
+    "name": "잠만보",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV4a",
+      "SV5a"
+    ]
+  },
+  {
+    "id": "장크로다일",
+    "name": "장크로다일",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "쟝고",
+    "name": "쟝고",
+    "category": "pokemon",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "저리더프",
+    "name": "저리더프",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B"
+    ]
+  },
+  {
+    "id": "저리릴",
+    "name": "저리릴",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B"
+    ]
+  },
+  {
+    "id": "저리어",
+    "name": "저리어",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B"
+    ]
+  },
+  {
+    "id": "저승갓숭",
+    "name": "저승갓숭",
+    "category": "pokemon",
+    "setIds": [
+      "SV10",
+      "SV4a",
+      "SV8"
+    ]
+  },
+  {
+    "id": "전룡",
+    "name": "전룡",
+    "category": "pokemon",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "전지충이",
+    "name": "전지충이",
+    "category": "pokemon",
+    "setIds": [
+      "SV5M",
+      "SV7"
+    ]
+  },
+  {
+    "id": "전툴라",
+    "name": "전툴라",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV6a"
+    ]
+  },
+  {
+    "id": "전툴라 ex",
+    "name": "전툴라 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "절각참",
+    "name": "절각참",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "절벼게",
+    "name": "절벼게",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "점토도리",
+    "name": "점토도리",
+    "category": "pokemon",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "제라오라",
+    "name": "제라오라",
+    "category": "pokemon",
+    "setIds": [
+      "SV5M",
+      "SV7",
+      "SV8a",
+      "SV9a"
+    ]
+  },
+  {
+    "id": "제르네아스",
+    "name": "제르네아스",
+    "category": "pokemon",
+    "setIds": [
+      "M1S",
+      "M4"
+    ]
+  },
+  {
+    "id": "제브라이카",
+    "name": "제브라이카",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV4M",
+      "SV8"
+    ]
+  },
+  {
+    "id": "제크로무",
+    "name": "제크로무",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B"
+    ]
+  },
+  {
+    "id": "조로아",
+    "name": "조로아",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV6a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "조로아크",
+    "name": "조로아크",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV6a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "조타구",
+    "name": "조타구",
+    "category": "pokemon",
+    "setIds": [
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "조타구 ex",
+    "name": "조타구 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV6a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "주리비얀",
+    "name": "주리비얀",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV11B"
+    ]
+  },
+  {
+    "id": "주뱃",
+    "name": "주뱃",
+    "category": "pokemon",
+    "setIds": [
+      "M4",
+      "SV4K",
+      "SV6a"
+    ]
+  },
+  {
+    "id": "줄뮤마",
+    "name": "줄뮤마",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV4M",
+      "SV8"
+    ]
+  },
+  {
+    "id": "쥬레곤",
+    "name": "쥬레곤",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "M3"
+    ]
+  },
+  {
+    "id": "쥬쥬",
+    "name": "쥬쥬",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "M3"
+    ]
+  },
+  {
+    "id": "쥬피썬더",
+    "name": "쥬피썬더",
+    "category": "pokemon",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "쥬피썬더 ex",
+    "name": "쥬피썬더 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "지그제구리",
+    "name": "지그제구리",
+    "category": "pokemon",
+    "setIds": [
+      "M2"
+    ]
+  },
+  {
+    "id": "지라치",
+    "name": "지라치",
+    "category": "pokemon",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "직구리",
+    "name": "직구리",
+    "category": "pokemon",
+    "setIds": [
+      "M2"
+    ]
+  },
+  {
+    "id": "진주몽",
+    "name": "진주몽",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "짜랑랑",
+    "name": "짜랑랑",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "쪼마리",
+    "name": "쪼마리",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV9"
+    ]
+  },
+  {
+    "id": "쫀도기",
+    "name": "쫀도기",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a",
+      "SV7"
+    ]
+  },
+  {
+    "id": "찌로꼬치",
+    "name": "찌로꼬치",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "찌리리공",
+    "name": "찌리리공",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "찌리배리",
+    "name": "찌리배리",
+    "category": "pokemon",
+    "setIds": [
+      "SV5a"
+    ]
+  },
+  {
+    "id": "찌리비",
+    "name": "찌리비",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a",
+      "SV6",
+      "SV8"
+    ]
+  },
+  {
+    "id": "찌리비크",
+    "name": "찌리비크",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a",
+      "SV6",
+      "SV8"
+    ]
+  },
+  {
+    "id": "차데스",
+    "name": "차데스",
+    "category": "pokemon",
+    "setIds": [
+      "SV5a",
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "차오꿀",
+    "name": "차오꿀",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "채키몽",
+    "name": "채키몽",
+    "category": "pokemon",
+    "setIds": [
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "철시드",
+    "name": "철시드",
+    "category": "pokemon",
+    "setIds": [
+      "M4",
+      "SV11W"
+    ]
+  },
+  {
+    "id": "초라기",
+    "name": "초라기",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "초롱순",
+    "name": "초롱순",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a",
+      "SV6",
+      "SV8"
+    ]
+  },
+  {
+    "id": "초염몽",
+    "name": "초염몽",
+    "category": "pokemon",
+    "setIds": [
+      "SV5a"
+    ]
+  },
+  {
+    "id": "총어",
+    "name": "총어",
+    "category": "pokemon",
+    "setIds": [
+      "M4",
+      "SV9"
+    ]
+  },
+  {
+    "id": "총지엔",
+    "name": "총지엔",
+    "category": "pokemon",
+    "setIds": [
+      "SV4M",
+      "SV8",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "총지엔 ex",
+    "name": "총지엔 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "춤추새",
+    "name": "춤추새",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV4M",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "치갈기",
+    "name": "치갈기",
+    "category": "pokemon",
+    "setIds": [
+      "SV7a"
+    ]
+  },
+  {
+    "id": "치라미",
+    "name": "치라미",
+    "category": "pokemon",
+    "setIds": [
+      "M4",
+      "SV11B",
+      "SV5K"
+    ]
+  },
+  {
+    "id": "치라치노",
+    "name": "치라치노",
+    "category": "pokemon",
+    "setIds": [
+      "M4",
+      "SV11B",
+      "SV5K"
+    ]
+  },
+  {
+    "id": "치렁",
+    "name": "치렁",
+    "category": "pokemon",
+    "setIds": [
+      "SV4M",
+      "SV6"
+    ]
+  },
+  {
+    "id": "치릴리",
+    "name": "치릴리",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B"
+    ]
+  },
+  {
+    "id": "치코리타",
+    "name": "치코리타",
+    "category": "pokemon",
+    "setIds": [
+      "M1S"
+    ]
+  },
+  {
+    "id": "칠색조",
+    "name": "칠색조",
+    "category": "pokemon",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "침바루",
+    "name": "침바루",
+    "category": "pokemon",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "카디나르마",
+    "name": "카디나르마",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a",
+      "SV8"
+    ]
+  },
+  {
+    "id": "카디나르마 ex",
+    "name": "카디나르마 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4K"
+    ]
+  },
+  {
+    "id": "카르본",
+    "name": "카르본",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV4K",
+      "SV4a",
+      "SV8",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "카푸꼬꼬꼭",
+    "name": "카푸꼬꼬꼭",
+    "category": "pokemon",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "카푸나비나",
+    "name": "카푸나비나",
+    "category": "pokemon",
+    "setIds": [
+      "SV7a"
+    ]
+  },
+  {
+    "id": "카푸브루루",
+    "name": "카푸브루루",
+    "category": "pokemon",
+    "setIds": [
+      "SV6a"
+    ]
+  },
+  {
+    "id": "칼라마네로",
+    "name": "칼라마네로",
+    "category": "pokemon",
+    "setIds": [
+      "SV6a"
+    ]
+  },
+  {
+    "id": "캐스퐁 태양의모습",
+    "name": "캐스퐁 태양의모습",
+    "category": "pokemon",
+    "setIds": [
+      "SV7a"
+    ]
+  },
+  {
+    "id": "캐이시",
+    "name": "캐이시",
+    "category": "pokemon",
+    "setIds": [
+      "M1S",
+      "SV4a",
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "캐터피",
+    "name": "캐터피",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "캡싸이",
+    "name": "캡싸이",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a",
+      "SV8"
+    ]
+  },
+  {
+    "id": "캥카",
+    "name": "캥카",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "커트로토무",
+    "name": "커트로토무",
+    "category": "pokemon",
+    "setIds": [
+      "SV10",
+      "SV7"
+    ]
+  },
+  {
+    "id": "케르디오",
+    "name": "케르디오",
+    "category": "pokemon",
+    "setIds": [
+      "M4",
+      "SV11W",
+      "SV5K"
+    ]
+  },
+  {
+    "id": "케오퍼스",
+    "name": "케오퍼스",
+    "category": "pokemon",
+    "setIds": [
+      "SV4K",
+      "SV7a"
+    ]
+  },
+  {
+    "id": "켄타로스",
+    "name": "켄타로스",
+    "category": "pokemon",
+    "setIds": [
+      "M4",
+      "SV9a"
+    ]
+  },
+  {
+    "id": "켄호로우",
+    "name": "켄호로우",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV5M"
+    ]
+  },
+  {
+    "id": "켈리몬",
+    "name": "켈리몬",
+    "category": "pokemon",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "코고미",
+    "name": "코고미",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B"
+    ]
+  },
+  {
+    "id": "코라이돈",
+    "name": "코라이돈",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K",
+      "SV8",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "코라이돈 ex",
+    "name": "코라이돈 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "코리갑",
+    "name": "코리갑",
+    "category": "pokemon",
+    "setIds": [
+      "M4",
+      "SV8"
+    ]
+  },
+  {
+    "id": "코바르온",
+    "name": "코바르온",
+    "category": "pokemon",
+    "setIds": [
+      "M4",
+      "SV11B"
+    ]
+  },
+  {
+    "id": "코뿌리",
+    "name": "코뿌리",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "코일",
+    "name": "코일",
+    "category": "pokemon",
+    "setIds": [
+      "M1S",
+      "SV8"
+    ]
+  },
+  {
+    "id": "코코리",
+    "name": "코코리",
+    "category": "pokemon",
+    "setIds": [
+      "M4",
+      "SV8"
+    ]
+  },
+  {
+    "id": "코코파스",
+    "name": "코코파스",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV10",
+      "SV5a"
+    ]
+  },
+  {
+    "id": "코터스",
+    "name": "코터스",
+    "category": "pokemon",
+    "setIds": [
+      "SV5a"
+    ]
+  },
+  {
+    "id": "콘치",
+    "name": "콘치",
+    "category": "pokemon",
+    "setIds": [
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "콜로솔트",
+    "name": "콜로솔트",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "SV4K",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "콩둘기",
+    "name": "콩둘기",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV5M"
+    ]
+  },
+  {
+    "id": "콩알뚜기",
+    "name": "콩알뚜기",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV4K"
+    ]
+  },
+  {
+    "id": "큐레무",
+    "name": "큐레무",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV6a"
+    ]
+  },
+  {
+    "id": "큐아링",
+    "name": "큐아링",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "크레베이스",
+    "name": "크레베이스",
+    "category": "pokemon",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "크레세리아",
+    "name": "크레세리아",
+    "category": "pokemon",
+    "setIds": [
+      "SV6a"
+    ]
+  },
+  {
+    "id": "크로뱃",
+    "name": "크로뱃",
+    "category": "pokemon",
+    "setIds": [
+      "M4",
+      "SV4K",
+      "SV6a"
+    ]
+  },
+  {
+    "id": "크리만",
+    "name": "크리만",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV9"
+    ]
+  },
+  {
+    "id": "클레스퍼트라",
+    "name": "클레스퍼트라",
+    "category": "pokemon",
+    "setIds": [
+      "SV4M",
+      "SV7a"
+    ]
+  },
+  {
+    "id": "클레스퍼트라 ex",
+    "name": "클레스퍼트라 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "클레피",
+    "name": "클레피",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV4a",
+      "SV7a"
+    ]
+  },
+  {
+    "id": "키링키",
+    "name": "키링키",
+    "category": "pokemon",
+    "setIds": [
+      "SV5M",
+      "SV5a"
+    ]
+  },
+  {
+    "id": "키키링",
+    "name": "키키링",
+    "category": "pokemon",
+    "setIds": [
+      "SV5a"
+    ]
+  },
+  {
+    "id": "키키링 ex",
+    "name": "키키링 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV5M"
+    ]
+  },
+  {
+    "id": "킬가르도",
+    "name": "킬가르도",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "킬가르도 ex",
+    "name": "킬가르도 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4M"
+    ]
+  },
+  {
+    "id": "킬라플로르",
+    "name": "킬라플로르",
+    "category": "pokemon",
+    "setIds": [
+      "SV6",
+      "SV8"
+    ]
+  },
+  {
+    "id": "킬라플로르 ex",
+    "name": "킬라플로르 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "킬리아",
+    "name": "킬리아",
+    "category": "pokemon",
+    "setIds": [
+      "M1S",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "킹드라",
+    "name": "킹드라",
+    "category": "pokemon",
+    "setIds": [
+      "SV4K"
+    ]
+  },
+  {
+    "id": "킹드라 ex",
+    "name": "킹드라 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV6a"
+    ]
+  },
+  {
+    "id": "타격귀",
+    "name": "타격귀",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "타부자고",
+    "name": "타부자고",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "SV4a",
+      "SV7a"
+    ]
+  },
+  {
+    "id": "타부자고 ex",
+    "name": "타부자고 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "타타륜",
+    "name": "타타륜",
+    "category": "pokemon",
+    "setIds": [
+      "M1S",
+      "SV5M",
+      "SV7a"
+    ]
+  },
+  {
+    "id": "탄동",
+    "name": "탄동",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K"
+    ]
+  },
+  {
+    "id": "탄차곤",
+    "name": "탄차곤",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K"
+    ]
+  },
+  {
+    "id": "탐리스",
+    "name": "탐리스",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "탕구리",
+    "name": "탕구리",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "태깅구르",
+    "name": "태깅구르",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "SV4a",
+      "SV8"
+    ]
+  },
+  {
+    "id": "태우지네",
+    "name": "태우지네",
+    "category": "pokemon",
+    "setIds": [
+      "M1S",
+      "SV5K",
+      "SV8"
+    ]
+  },
+  {
+    "id": "탱그릴",
+    "name": "탱그릴",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "탱탱겔",
+    "name": "탱탱겔",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "터검니",
+    "name": "터검니",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV6a"
+    ]
+  },
+  {
+    "id": "터벅고래",
+    "name": "터벅고래",
+    "category": "pokemon",
+    "setIds": [
+      "SV10",
+      "SV7a"
+    ]
+  },
+  {
+    "id": "턱지충이",
+    "name": "턱지충이",
+    "category": "pokemon",
+    "setIds": [
+      "SV5M",
+      "SV7"
+    ]
+  },
+  {
+    "id": "텅구리",
+    "name": "텅구리",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "테라키온",
+    "name": "테라키온",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "테라파고스",
+    "name": "테라파고스",
+    "category": "pokemon",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "테라파고스 ex",
+    "name": "테라파고스 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV7",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "테르나",
+    "name": "테르나",
+    "category": "pokemon",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "테오키스",
+    "name": "테오키스",
+    "category": "pokemon",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "테일로",
+    "name": "테일로",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "토게데마루",
+    "name": "토게데마루",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV7"
+    ]
+  },
+  {
+    "id": "토게키스",
+    "name": "토게키스",
+    "category": "pokemon",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "토게틱",
+    "name": "토게틱",
+    "category": "pokemon",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "토게피",
+    "name": "토게피",
+    "category": "pokemon",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "토네로스",
+    "name": "토네로스",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV7"
+    ]
+  },
+  {
+    "id": "토대부기 ex",
+    "name": "토대부기 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K"
+    ]
+  },
+  {
+    "id": "토쇠골",
+    "name": "토쇠골",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV6"
+    ]
+  },
+  {
+    "id": "토중몬",
+    "name": "토중몬",
+    "category": "pokemon",
+    "setIds": [
+      "M1S"
+    ]
+  },
+  {
+    "id": "톱치",
+    "name": "톱치",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV7a"
+    ]
+  },
+  {
+    "id": "통통코",
+    "name": "통통코",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "투구뿌논",
+    "name": "투구뿌논",
+    "category": "pokemon",
+    "setIds": [
+      "SV5M",
+      "SV7"
+    ]
+  },
+  {
+    "id": "툰베어",
+    "name": "툰베어",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B"
+    ]
+  },
+  {
+    "id": "트리미앙",
+    "name": "트리미앙",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV6a"
+    ]
+  },
+  {
+    "id": "트리토돈",
+    "name": "트리토돈",
+    "category": "pokemon",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "티고라스",
+    "name": "티고라스",
+    "category": "pokemon",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "파라블레이즈",
+    "name": "파라블레이즈",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV4a",
+      "SV8",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "파라블레이즈 ex",
+    "name": "파라블레이즈 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "파라섹트",
+    "name": "파라섹트",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "파라스",
+    "name": "파라스",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "파르빗",
+    "name": "파르빗",
+    "category": "pokemon",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "파르토",
+    "name": "파르토",
+    "category": "pokemon",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "파밀리쥐",
+    "name": "파밀리쥐",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a",
+      "SV8"
+    ]
+  },
+  {
+    "id": "파밀리쥐 ex",
+    "name": "파밀리쥐 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4M"
+    ]
+  },
+  {
+    "id": "파비코",
+    "name": "파비코",
+    "category": "pokemon",
+    "setIds": [
+      "SV4M",
+      "SV7a"
+    ]
+  },
+  {
+    "id": "파비코리",
+    "name": "파비코리",
+    "category": "pokemon",
+    "setIds": [
+      "SV7a"
+    ]
+  },
+  {
+    "id": "파비코리 ex",
+    "name": "파비코리 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4M"
+    ]
+  },
+  {
+    "id": "파오리",
+    "name": "파오리",
+    "category": "pokemon",
+    "setIds": [
+      "SV6"
+    ]
+  },
+  {
+    "id": "파오젠",
+    "name": "파오젠",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV4M",
+      "SV8",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "파오젠 ex",
+    "name": "파오젠 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "파이리",
+    "name": "파이리",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "파이숭이",
+    "name": "파이숭이",
+    "category": "pokemon",
+    "setIds": [
+      "SV5a"
+    ]
+  },
+  {
+    "id": "파이어",
+    "name": "파이어",
+    "category": "pokemon",
+    "setIds": [
+      "M2"
+    ]
+  },
+  {
+    "id": "파이어로",
+    "name": "파이어로",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV7"
+    ]
+  },
+  {
+    "id": "파쪼옥",
+    "name": "파쪼옥",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W",
+      "SV6a",
+      "SV7"
+    ]
+  },
+  {
+    "id": "파치리스",
+    "name": "파치리스",
+    "category": "pokemon",
+    "setIds": [
+      "M1S",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "판짱",
+    "name": "판짱",
+    "category": "pokemon",
+    "setIds": [
+      "SV7",
+      "SV9"
+    ]
+  },
+  {
+    "id": "팔데아 우파",
+    "name": "팔데아 우파",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "팔데아 켄타로스",
+    "name": "팔데아 켄타로스",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV4a",
+      "SV8"
+    ]
+  },
+  {
+    "id": "팔데아 토오 ex",
+    "name": "팔데아 토오 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "패리퍼",
+    "name": "패리퍼",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "팬텀",
+    "name": "팬텀",
+    "category": "pokemon",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "팬텀 ex",
+    "name": "팬텀 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K"
+    ]
+  },
+  {
+    "id": "팽도리",
+    "name": "팽도리",
+    "category": "pokemon",
+    "setIds": [
+      "M2"
+    ]
+  },
+  {
+    "id": "팽태자",
+    "name": "팽태자",
+    "category": "pokemon",
+    "setIds": [
+      "M2"
+    ]
+  },
+  {
+    "id": "퍼퓨돈",
+    "name": "퍼퓨돈",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "펄기아",
+    "name": "펄기아",
+    "category": "pokemon",
+    "setIds": [
+      "SV7a"
+    ]
+  },
+  {
+    "id": "펄스멍",
+    "name": "펄스멍",
+    "category": "pokemon",
+    "setIds": [
+      "M2"
+    ]
+  },
+  {
+    "id": "펌킨인",
+    "name": "펌킨인",
+    "category": "pokemon",
+    "setIds": [
+      "M4",
+      "SV4M"
+    ]
+  },
+  {
+    "id": "페라페",
+    "name": "페라페",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K"
+    ]
+  },
+  {
+    "id": "페르시온",
+    "name": "페르시온",
+    "category": "pokemon",
+    "setIds": [
+      "SV6a"
+    ]
+  },
+  {
+    "id": "페이검",
+    "name": "페이검",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV5a"
+    ]
+  },
+  {
+    "id": "페퍼의 들눈해",
+    "name": "페퍼의 들눈해",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "페퍼의 마피티프",
+    "name": "페퍼의 마피티프",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "페퍼의 오라티프",
+    "name": "페퍼의 오라티프",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "페퍼의 요씽리스",
+    "name": "페퍼의 요씽리스",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "페퍼의 육파리",
+    "name": "페퍼의 육파리",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "페퍼의 탐리스",
+    "name": "페퍼의 탐리스",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "펜드라",
+    "name": "펜드라",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV6"
+    ]
+  },
+  {
+    "id": "포곰곰",
+    "name": "포곰곰",
+    "category": "pokemon",
+    "setIds": [
+      "M1S",
+      "SV6a"
+    ]
+  },
+  {
+    "id": "포니타",
+    "name": "포니타",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "포챠나",
+    "name": "포챠나",
+    "category": "pokemon",
+    "setIds": [
+      "SV5K",
+      "SV6"
+    ]
+  },
+  {
+    "id": "포푸니",
+    "name": "포푸니",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV4a",
+      "SV6a"
+    ]
+  },
+  {
+    "id": "포푸니라",
+    "name": "포푸니라",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV4a",
+      "SV6a"
+    ]
+  },
+  {
+    "id": "폭거북스",
+    "name": "폭거북스",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV7",
+      "SV7a"
+    ]
+  },
+  {
+    "id": "폭슬라이",
+    "name": "폭슬라이",
+    "category": "pokemon",
+    "setIds": [
+      "M1L"
+    ]
+  },
+  {
+    "id": "폭음룡",
+    "name": "폭음룡",
+    "category": "pokemon",
+    "setIds": [
+      "SV4K"
+    ]
+  },
+  {
+    "id": "폭타",
+    "name": "폭타",
+    "category": "pokemon",
+    "setIds": [
+      "SV4K"
+    ]
+  },
+  {
+    "id": "폴리곤",
+    "name": "폴리곤",
+    "category": "pokemon",
+    "setIds": [
+      "SV4M"
+    ]
+  },
+  {
+    "id": "폴리곤2",
+    "name": "폴리곤2",
+    "category": "pokemon",
+    "setIds": [
+      "SV4M"
+    ]
+  },
+  {
+    "id": "폴리곤Z",
+    "name": "폴리곤Z",
+    "category": "pokemon",
+    "setIds": [
+      "SV4M"
+    ]
+  },
+  {
+    "id": "푸린",
+    "name": "푸린",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "푸크린",
+    "name": "푸크린",
+    "category": "pokemon",
+    "setIds": [
+      "M2",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "푸크린 ex",
+    "name": "푸크린 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "푸호꼬",
+    "name": "푸호꼬",
+    "category": "pokemon",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "프레프티르",
+    "name": "프레프티르",
+    "category": "pokemon",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "프로토가",
+    "name": "프로토가",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV7"
+    ]
+  },
+  {
+    "id": "프리져",
+    "name": "프리져",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "프리지오",
+    "name": "프리지오",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV7a"
+    ]
+  },
+  {
+    "id": "플라베베",
+    "name": "플라베베",
+    "category": "pokemon",
+    "setIds": [
+      "SV5a"
+    ]
+  },
+  {
+    "id": "플라엣테",
+    "name": "플라엣테",
+    "category": "pokemon",
+    "setIds": [
+      "SV5a"
+    ]
+  },
+  {
+    "id": "플라이곤",
+    "name": "플라이곤",
+    "category": "pokemon",
+    "setIds": [
+      "M2"
+    ]
+  },
+  {
+    "id": "플라이곤 ex",
+    "name": "플라이곤 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV7a"
+    ]
+  },
+  {
+    "id": "플라제스",
+    "name": "플라제스",
+    "category": "pokemon",
+    "setIds": [
+      "SV5a"
+    ]
+  },
+  {
+    "id": "플로젤",
+    "name": "플로젤",
+    "category": "pokemon",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "피그점프",
+    "name": "피그점프",
+    "category": "pokemon",
+    "setIds": [
+      "M1S"
+    ]
+  },
+  {
+    "id": "피그킹",
+    "name": "피그킹",
+    "category": "pokemon",
+    "setIds": [
+      "M1S"
+    ]
+  },
+  {
+    "id": "피오네",
+    "name": "피오네",
+    "category": "pokemon",
+    "setIds": [
+      "SV5a"
+    ]
+  },
+  {
+    "id": "피죤",
+    "name": "피죤",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "피죤투 ex",
+    "name": "피죤투 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "피카츄",
+    "name": "피카츄",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a",
+      "SV5M",
+      "SV8"
+    ]
+  },
+  {
+    "id": "피카츄 ex",
+    "name": "피카츄 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV8",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "피콘",
+    "name": "피콘",
+    "category": "pokemon",
+    "setIds": [
+      "SV10",
+      "SV4a",
+      "SV5M"
+    ]
+  },
+  {
+    "id": "픽시",
+    "name": "픽시",
+    "category": "pokemon",
+    "setIds": [
+      "SV6"
+    ]
+  },
+  {
+    "id": "하느라기",
+    "name": "하느라기",
+    "category": "pokemon",
+    "setIds": [
+      "SV4M",
+      "SV4a",
+      "SV7a"
+    ]
+  },
+  {
+    "id": "하데리어",
+    "name": "하데리어",
+    "category": "pokemon",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "하랑우탄",
+    "name": "하랑우탄",
+    "category": "pokemon",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "하리뭉",
+    "name": "하리뭉",
+    "category": "pokemon",
+    "setIds": [
+      "M1L"
+    ]
+  },
+  {
+    "id": "하마돈",
+    "name": "하마돈",
+    "category": "pokemon",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "한바이트",
+    "name": "한바이트",
+    "category": "pokemon",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "한카리아스 ex",
+    "name": "한카리아스 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "할비롱",
+    "name": "할비롱",
+    "category": "pokemon",
+    "setIds": [
+      "SV5M"
+    ]
+  },
+  {
+    "id": "핫삼",
+    "name": "핫삼",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "핫삼 ex",
+    "name": "핫삼 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV5M"
+    ]
+  },
+  {
+    "id": "해골몽",
+    "name": "해골몽",
+    "category": "pokemon",
+    "setIds": [
+      "SV6a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "해너츠",
+    "name": "해너츠",
+    "category": "pokemon",
+    "setIds": [
+      "SV6"
+    ]
+  },
+  {
+    "id": "해루미",
+    "name": "해루미",
+    "category": "pokemon",
+    "setIds": [
+      "SV6"
+    ]
+  },
+  {
+    "id": "해피너스 ex",
+    "name": "해피너스 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV6"
+    ]
+  },
+  {
+    "id": "헌테일",
+    "name": "헌테일",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "헤라크로스",
+    "name": "헤라크로스",
+    "category": "pokemon",
+    "setIds": [
+      "SV6"
+    ]
+  },
+  {
+    "id": "헬가",
+    "name": "헬가",
+    "category": "pokemon",
+    "setIds": [
+      "SV6a"
+    ]
+  },
+  {
+    "id": "형광어",
+    "name": "형광어",
+    "category": "pokemon",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "형사구스",
+    "name": "형사구스",
+    "category": "pokemon",
+    "setIds": [
+      "M1L"
+    ]
+  },
+  {
+    "id": "호바귀",
+    "name": "호바귀",
+    "category": "pokemon",
+    "setIds": [
+      "M4",
+      "SV4M"
+    ]
+  },
+  {
+    "id": "호브의 모래뱀",
+    "name": "호브의 모래뱀",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "호브의 배우르",
+    "name": "호브의 배우르",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "호브의 사다이사",
+    "name": "호브의 사다이사",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "호브의 아머까오",
+    "name": "호브의 아머까오",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "호브의 우르",
+    "name": "호브의 우르",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "호브의 윽우지",
+    "name": "호브의 윽우지",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "호브의 자시안",
+    "name": "호브의 자시안",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "호브의 잠만보",
+    "name": "호브의 잠만보",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "호브의 파라꼬",
+    "name": "호브의 파라꼬",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "호브의 파크로우",
+    "name": "호브의 파크로우",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "화강돌",
+    "name": "화강돌",
+    "category": "pokemon",
+    "setIds": [
+      "M1L",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "화살꼬빈",
+    "name": "화살꼬빈",
+    "category": "pokemon",
+    "setIds": [
+      "M3",
+      "SV7"
+    ]
+  },
+  {
+    "id": "화염레오",
+    "name": "화염레오",
+    "category": "pokemon",
+    "setIds": [
+      "M1S"
+    ]
+  },
+  {
+    "id": "활화르바",
+    "name": "활화르바",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV8"
+    ]
+  },
+  {
+    "id": "후딘",
+    "name": "후딘",
+    "category": "pokemon",
+    "setIds": [
+      "M1S",
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "후딘 ex",
+    "name": "후딘 ex",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "훔처우",
+    "name": "훔처우",
+    "category": "pokemon",
+    "setIds": [
+      "M1L"
+    ]
+  },
+  {
+    "id": "휠구",
+    "name": "휠구",
+    "category": "pokemon",
+    "setIds": [
+      "SV11B",
+      "SV6"
+    ]
+  },
+  {
+    "id": "흉내내",
+    "name": "흉내내",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "흔들풍손",
+    "name": "흔들풍손",
+    "category": "pokemon",
+    "setIds": [
+      "SV4a",
+      "SV7"
+    ]
+  },
+  {
+    "id": "흥나숭",
+    "name": "흥나숭",
+    "category": "pokemon",
+    "setIds": [
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "히드런",
+    "name": "히드런",
+    "category": "pokemon",
+    "setIds": [
+      "SV6"
+    ]
+  },
+  {
+    "id": "히스이 가디",
+    "name": "히스이 가디",
+    "category": "pokemon",
+    "setIds": [
+      "SV5a"
+    ]
+  },
+  {
+    "id": "히스이 윈디",
+    "name": "히스이 윈디",
+    "category": "pokemon",
+    "setIds": [
+      "SV5a"
+    ]
+  },
+  {
+    "id": "히트로토무",
+    "name": "히트로토무",
+    "category": "pokemon",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "히포포타스",
+    "name": "히포포타스",
+    "category": "pokemon",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "N의 기기기어르",
+    "name": "N의 기기기어르",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "N의 기기어르",
+    "name": "N의 기기어르",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "N의 기어르",
+    "name": "N의 기어르",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "N의 달막화",
+    "name": "N의 달막화",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "N의 레시라무",
+    "name": "N의 레시라무",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "N의 불비달마",
+    "name": "N의 불비달마",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "N의 심보러",
+    "name": "N의 심보러",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "N의 쌔비냥",
+    "name": "N의 쌔비냥",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "N의 조로아",
+    "name": "N의 조로아",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "N의 조로아크",
+    "name": "N의 조로아크",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "N의 파쪼옥",
+    "name": "N의 파쪼옥",
+    "category": "pokemon",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "각성의 드럼",
+    "name": "각성의 드럼",
+    "category": "trainer",
+    "setIds": [
+      "SV5K"
+    ],
+    "aceSpec": true
+  },
+  {
+    "id": "강석",
+    "name": "강석",
+    "category": "trainer",
+    "setIds": [
+      "SV4M"
+    ]
+  },
+  {
+    "id": "개조해머",
+    "name": "개조해머",
+    "category": "trainer",
+    "setIds": [
+      "SV5a",
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "격려의편지",
+    "name": "격려의편지",
+    "category": "trainer",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "곤충채집세트",
+    "name": "곤충채집세트",
+    "category": "trainer",
+    "setIds": [
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "곤포",
+    "name": "곤포",
+    "category": "trainer",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "관리인",
+    "name": "관리인",
+    "category": "trainer",
+    "setIds": [
+      "SV5a"
+    ]
+  },
+  {
+    "id": "괴상한 시계",
+    "name": "괴상한 시계",
+    "category": "trainer",
+    "setIds": [
+      "M1S"
+    ]
+  },
+  {
+    "id": "규리의 눈빛",
+    "name": "규리의 눈빛",
+    "category": "trainer",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "그래비티 마운틴",
+    "name": "그래비티 마운틴",
+    "category": "trainer",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "기술머신 데볼루션",
+    "name": "기술머신 데볼루션",
+    "category": "trainer",
+    "setIds": [
+      "SV4K",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "기술머신 에볼루션",
+    "name": "기술머신 에볼루션",
+    "category": "trainer",
+    "setIds": [
+      "SV4M",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "기술머신 위기극복한방",
+    "name": "기술머신 위기극복한방",
+    "category": "trainer",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "기술머신 플루어라이트",
+    "name": "기술머신 플루어라이트",
+    "category": "trainer",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "긴급 보드",
+    "name": "긴급 보드",
+    "category": "trainer",
+    "setIds": [
+      "SV5K",
+      "SV5a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "꼬시개열매",
+    "name": "꼬시개열매",
+    "category": "trainer",
+    "setIds": [
+      "SV7a"
+    ]
+  },
+  {
+    "id": "낚싯대MAX",
+    "name": "낚싯대MAX",
+    "category": "trainer",
+    "setIds": [
+      "SV8a"
+    ],
+    "aceSpec": true
+  },
+  {
+    "id": "난천의 파워웨이트",
+    "name": "난천의 파워웨이트",
+    "category": "trainer",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "네르케",
+    "name": "네르케",
+    "category": "trainer",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "네리네",
+    "name": "네리네",
+    "category": "trainer",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "네모",
+    "name": "네모",
+    "category": "trainer",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "네모의 륙색",
+    "name": "네모의 륙색",
+    "category": "trainer",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "네스트볼",
+    "name": "네스트볼",
+    "category": "trainer",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "누룩스시티",
+    "name": "누룩스시티",
+    "category": "trainer",
+    "setIds": [
+      "SV9",
+      "SV9a"
+    ]
+  },
+  {
+    "id": "뉴트럴센터",
+    "name": "뉴트럴센터",
+    "category": "trainer",
+    "setIds": [
+      "SV6a",
+      "SV8a"
+    ],
+    "aceSpec": true
+  },
+  {
+    "id": "느긋풀",
+    "name": "느긋풀",
+    "category": "trainer",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "다크볼",
+    "name": "다크볼",
+    "category": "trainer",
+    "setIds": [
+      "SV7a"
+    ],
+    "aceSpec": true
+  },
+  {
+    "id": "달이 빛나는 언덕",
+    "name": "달이 빛나는 언덕",
+    "category": "trainer",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "대단한낚싯대",
+    "name": "대단한낚싯대",
+    "category": "trainer",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "대지의 그릇",
+    "name": "대지의 그릇",
+    "category": "trainer",
+    "setIds": [
+      "SV4K",
+      "SV6a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "대체 티켓",
+    "name": "대체 티켓",
+    "category": "trainer",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "데인저러스 광선",
+    "name": "데인저러스 광선",
+    "category": "trainer",
+    "setIds": [
+      "SV6a"
+    ],
+    "aceSpec": true
+  },
+  {
+    "id": "도깨비의 가면",
+    "name": "도깨비의 가면",
+    "category": "trainer",
+    "setIds": [
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "도움벨",
+    "name": "도움벨",
+    "category": "trainer",
+    "setIds": [
+      "SV7a"
+    ]
+  },
+  {
+    "id": "도희의 비기",
+    "name": "도희의 비기",
+    "category": "trainer",
+    "setIds": [
+      "SV6a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "드라세나",
+    "name": "드라세나",
+    "category": "trainer",
+    "setIds": [
+      "SV7a"
+    ]
+  },
+  {
+    "id": "디럭스봄",
+    "name": "디럭스봄",
+    "category": "trainer",
+    "setIds": [
+      "SV7"
+    ],
+    "aceSpec": true
+  },
+  {
+    "id": "러브러브볼",
+    "name": "러브러브볼",
+    "category": "trainer",
+    "setIds": [
+      "SV5a"
+    ]
+  },
+  {
+    "id": "럭셔리망토",
+    "name": "럭셔리망토",
+    "category": "trainer",
+    "setIds": [
+      "SV4K",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "럭키멧",
+    "name": "럭키멧",
+    "category": "trainer",
+    "setIds": [
+      "SV5a"
+    ]
+  },
+  {
+    "id": "레슨 스튜디오",
+    "name": "레슨 스튜디오",
+    "category": "trainer",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "레포르",
+    "name": "레포르",
+    "category": "trainer",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "로켓단의 감시탑",
+    "name": "로켓단의 감시탑",
+    "category": "trainer",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 깜짝봄",
+    "name": "로켓단의 깜짝봄",
+    "category": "trainer",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 람다",
+    "name": "로켓단의 람다",
+    "category": "trainer",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 랜스",
+    "name": "로켓단의 랜스",
+    "category": "trainer",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 리시버",
+    "name": "로켓단의 리시버",
+    "category": "trainer",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 방해로봇",
+    "name": "로켓단의 방해로봇",
+    "category": "trainer",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 비주기",
+    "name": "로켓단의 비주기",
+    "category": "trainer",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 슈퍼볼",
+    "name": "로켓단의 슈퍼볼",
+    "category": "trainer",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 아테나",
+    "name": "로켓단의 아테나",
+    "category": "trainer",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 아폴로",
+    "name": "로켓단의 아폴로",
+    "category": "trainer",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "로켓단의 팩토리",
+    "name": "로켓단의 팩토리",
+    "category": "trainer",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "루티아의 어필",
+    "name": "루티아의 어필",
+    "category": "trainer",
+    "setIds": [
+      "SV7a"
+    ]
+  },
+  {
+    "id": "리부트 포드",
+    "name": "리부트 포드",
+    "category": "trainer",
+    "setIds": [
+      "SV5M"
+    ],
+    "aceSpec": true
+  },
+  {
+    "id": "리파",
+    "name": "리파",
+    "category": "trainer",
+    "setIds": [
+      "SV4M"
+    ]
+  },
+  {
+    "id": "릴리에의 결심",
+    "name": "릴리에의 결심",
+    "category": "trainer",
+    "setIds": [
+      "M1L"
+    ]
+  },
+  {
+    "id": "릴리에의 진주",
+    "name": "릴리에의 진주",
+    "category": "trainer",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "마을 회관",
+    "name": "마을 회관",
+    "category": "trainer",
+    "setIds": [
+      "SV5a"
+    ]
+  },
+  {
+    "id": "마을백화점",
+    "name": "마을백화점",
+    "category": "trainer",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "마코열매",
+    "name": "마코열매",
+    "category": "trainer",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "마티스의 거래",
+    "name": "마티스의 거래",
+    "category": "trainer",
+    "setIds": [
+      "M1L"
+    ]
+  },
+  {
+    "id": "마티에르",
+    "name": "마티에르",
+    "category": "trainer",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "맥시멈 벨트",
+    "name": "맥시멈 벨트",
+    "category": "trainer",
+    "setIds": [
+      "SV5K",
+      "SV8a"
+    ],
+    "aceSpec": true
+  },
+  {
+    "id": "먹다남은음식",
+    "name": "먹다남은음식",
+    "category": "trainer",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "메가시그널",
+    "name": "메가시그널",
+    "category": "trainer",
+    "setIds": [
+      "M1S"
+    ]
+  },
+  {
+    "id": "메가톤 블로어",
+    "name": "메가톤 블로어",
+    "category": "trainer",
+    "setIds": [
+      "SV7a"
+    ]
+  },
+  {
+    "id": "멜로코",
+    "name": "멜로코",
+    "category": "trainer",
+    "setIds": [
+      "SV4K",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "명희의 격려",
+    "name": "명희의 격려",
+    "category": "trainer",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "모란",
+    "name": "모란",
+    "category": "trainer",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "모야모",
+    "name": "모야모",
+    "category": "trainer",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "무서운 청년",
+    "name": "무서운 청년",
+    "category": "trainer",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "미라클인터컴",
+    "name": "미라클인터컴",
+    "category": "trainer",
+    "setIds": [
+      "SV8"
+    ],
+    "aceSpec": true
+  },
+  {
+    "id": "미르갈레트",
+    "name": "미르갈레트",
+    "category": "trainer",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "미르시티",
+    "name": "미르시티",
+    "category": "trainer",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "미스터리 가든",
+    "name": "미스터리 가든",
+    "category": "trainer",
+    "setIds": [
+      "M1S"
+    ]
+  },
+  {
+    "id": "민진의 헤아림",
+    "name": "민진의 헤아림",
+    "category": "trainer",
+    "setIds": [
+      "M1S"
+    ]
+  },
+  {
+    "id": "바리비열매",
+    "name": "바리비열매",
+    "category": "trainer",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "바위 가슴보호대",
+    "name": "바위 가슴보호대",
+    "category": "trainer",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "박사의 연구",
+    "name": "박사의 연구",
+    "category": "trainer",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "박사의 연구 (주박사)",
+    "name": "박사의 연구 (주박사)",
+    "category": "trainer",
+    "setIds": [
+      "SV11B"
+    ]
+  },
+  {
+    "id": "반짝이는 결정",
+    "name": "반짝이는 결정",
+    "category": "trainer",
+    "setIds": [
+      "SV7",
+      "SV8a"
+    ],
+    "aceSpec": true
+  },
+  {
+    "id": "밤의 들것",
+    "name": "밤의 들것",
+    "category": "trainer",
+    "setIds": [
+      "M1L",
+      "SV6a",
+      "SV8",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "밤의 아카데미",
+    "name": "밤의 아카데미",
+    "category": "trainer",
+    "setIds": [
+      "SV6a"
+    ]
+  },
+  {
+    "id": "방해 레터",
+    "name": "방해 레터",
+    "category": "trainer",
+    "setIds": [
+      "SV7a"
+    ]
+  },
+  {
+    "id": "배틀 콜로세움",
+    "name": "배틀 콜로세움",
+    "category": "trainer",
+    "setIds": [
+      "M2"
+    ]
+  },
+  {
+    "id": "벌레회피스프레이",
+    "name": "벌레회피스프레이",
+    "category": "trainer",
+    "setIds": [
+      "M1L"
+    ]
+  },
+  {
+    "id": "벨의 진심",
+    "name": "벨의 진심",
+    "category": "trainer",
+    "setIds": [
+      "SV5M",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "변화의 서",
+    "name": "변화의 서",
+    "category": "trainer",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "보미카의 연주",
+    "name": "보미카의 연주",
+    "category": "trainer",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "보스의 지령",
+    "name": "보스의 지령",
+    "category": "trainer",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "보울마을",
+    "name": "보울마을",
+    "category": "trainer",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "부스트에너지 고대",
+    "name": "부스트에너지 고대",
+    "category": "trainer",
+    "setIds": [
+      "SV4K",
+      "SV5K",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "부스트에너지 미래",
+    "name": "부스트에너지 미래",
+    "category": "trainer",
+    "setIds": [
+      "SV4M",
+      "SV5M",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "불놀이꾼",
+    "name": "불놀이꾼",
+    "category": "trainer",
+    "setIds": [
+      "M2"
+    ]
+  },
+  {
+    "id": "브라이어",
+    "name": "브라이어",
+    "category": "trainer",
+    "setIds": [
+      "SV7",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "브레이브뱅글",
+    "name": "브레이브뱅글",
+    "category": "trainer",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "블래리의 한 수",
+    "name": "블래리의 한 수",
+    "category": "trainer",
+    "setIds": [
+      "M2"
+    ]
+  },
+  {
+    "id": "비주기의 카리스마",
+    "name": "비주기의 카리스마",
+    "category": "trainer",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "비치코트",
+    "name": "비치코트",
+    "category": "trainer",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "비파",
+    "name": "비파",
+    "category": "trainer",
+    "setIds": [
+      "SV5K",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "빛나",
+    "name": "빛나",
+    "category": "trainer",
+    "setIds": [
+      "M2"
+    ]
+  },
+  {
+    "id": "사슬떡",
+    "name": "사슬떡",
+    "category": "trainer",
+    "setIds": [
+      "SV6a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "서바이브 깁스",
+    "name": "서바이브 깁스",
+    "category": "trainer",
+    "setIds": [
+      "SV5a"
+    ],
+    "aceSpec": true
+  },
+  {
+    "id": "서퍼",
+    "name": "서퍼",
+    "category": "trainer",
+    "setIds": [
+      "SV7a"
+    ]
+  },
+  {
+    "id": "성스러운 부적",
+    "name": "성스러운 부적",
+    "category": "trainer",
+    "setIds": [
+      "M2"
+    ]
+  },
+  {
+    "id": "성스러운 축복",
+    "name": "성스러운 축복",
+    "category": "trainer",
+    "setIds": [
+      "M2"
+    ]
+  },
+  {
+    "id": "성스러운분말",
+    "name": "성스러운분말",
+    "category": "trainer",
+    "setIds": [
+      "M3",
+      "SV9a"
+    ]
+  },
+  {
+    "id": "세류",
+    "name": "세류",
+    "category": "trainer",
+    "setIds": [
+      "SV5a"
+    ]
+  },
+  {
+    "id": "세이지",
+    "name": "세이지",
+    "category": "trainer",
+    "setIds": [
+      "SV5M"
+    ]
+  },
+  {
+    "id": "수련의 돌봄",
+    "name": "수련의 돌봄",
+    "category": "trainer",
+    "setIds": [
+      "SV5a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "수퍼 에너지 회수",
+    "name": "수퍼 에너지 회수",
+    "category": "trainer",
+    "setIds": [
+      "SV4a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "스크램블 스위치",
+    "name": "스크램블 스위치",
+    "category": "trainer",
+    "setIds": [
+      "SV8"
+    ],
+    "aceSpec": true
+  },
+  {
+    "id": "스페셜 레드카드",
+    "name": "스페셜 레드카드",
+    "category": "trainer",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "시아노",
+    "name": "시아노",
+    "category": "trainer",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "시유",
+    "name": "시유",
+    "category": "trainer",
+    "setIds": [
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "시크릿박스",
+    "name": "시크릿박스",
+    "category": "trainer",
+    "setIds": [
+      "SV6"
+    ],
+    "aceSpec": true
+  },
+  {
+    "id": "시트론의 재치",
+    "name": "시트론의 재치",
+    "category": "trainer",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "심향의 모험",
+    "name": "심향의 모험",
+    "category": "trainer",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "아세로라의 장난",
+    "name": "아세로라의 장난",
+    "category": "trainer",
+    "setIds": [
+      "M1S"
+    ]
+  },
+  {
+    "id": "아이리스의 투지",
+    "name": "아이리스의 투지",
+    "category": "trainer",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "아이언 디펜드업",
+    "name": "아이언 디펜드업",
+    "category": "trainer",
+    "setIds": [
+      "M1L"
+    ]
+  },
+  {
+    "id": "아크로마의 집념",
+    "name": "아크로마의 집념",
+    "category": "trainer",
+    "setIds": [
+      "SV6a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "암호마니아의 해독",
+    "name": "암호마니아의 해독",
+    "category": "trainer",
+    "setIds": [
+      "SV5M",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "앙쥬 플라엣테",
+    "name": "앙쥬 플라엣테",
+    "category": "trainer",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "야파열매",
+    "name": "야파열매",
+    "category": "trainer",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "어릿광대",
+    "name": "어릿광대",
+    "category": "trainer",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "언페어 스탬프",
+    "name": "언페어 스탬프",
+    "category": "trainer",
+    "setIds": [
+      "SV5a"
+    ],
+    "aceSpec": true
+  },
+  {
+    "id": "에너지 동전",
+    "name": "에너지 동전",
+    "category": "trainer",
+    "setIds": [
+      "SV11B"
+    ]
+  },
+  {
+    "id": "에너지 리사이클",
+    "name": "에너지 리사이클",
+    "category": "trainer",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "에너지 전송 PRO",
+    "name": "에너지 전송 PRO",
+    "category": "trainer",
+    "setIds": [
+      "SV7a"
+    ],
+    "aceSpec": true
+  },
+  {
+    "id": "에너지 회수",
+    "name": "에너지 회수",
+    "category": "trainer",
+    "setIds": [
+      "M4",
+      "SV11W"
+    ]
+  },
+  {
+    "id": "에너지탁치기",
+    "name": "에너지탁치기",
+    "category": "trainer",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "오기머리띠",
+    "name": "오기머리띠",
+    "category": "trainer",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "오기조끼",
+    "name": "오기조끼",
+    "category": "trainer",
+    "setIds": [
+      "SV4K"
+    ]
+  },
+  {
+    "id": "오래된 깃털화석",
+    "name": "오래된 깃털화석",
+    "category": "trainer",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "오래된 덮개화석",
+    "name": "오래된 덮개화석",
+    "category": "trainer",
+    "setIds": [
+      "SV11B",
+      "SV7"
+    ]
+  },
+  {
+    "id": "오래된 뿌리화석",
+    "name": "오래된 뿌리화석",
+    "category": "trainer",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "오래된 지느러미화석",
+    "name": "오래된 지느러미화석",
+    "category": "trainer",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "오래된 턱화석",
+    "name": "오래된 턱화석",
+    "category": "trainer",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "오르티가",
+    "name": "오르티가",
+    "category": "trainer",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "오엽",
+    "name": "오엽",
+    "category": "trainer",
+    "setIds": [
+      "SV5a"
+    ]
+  },
+  {
+    "id": "오카열매",
+    "name": "오카열매",
+    "category": "trainer",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "올림박사의 기백",
+    "name": "올림박사의 기백",
+    "category": "trainer",
+    "setIds": [
+      "SV4K",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "용기의부적",
+    "name": "용기의부적",
+    "category": "trainer",
+    "setIds": [
+      "SV4a",
+      "SV7"
+    ]
+  },
+  {
+    "id": "용의 비약",
+    "name": "용의 비약",
+    "category": "trainer",
+    "setIds": [
+      "SV7a"
+    ]
+  },
+  {
+    "id": "웅의 스카우트",
+    "name": "웅의 스카우트",
+    "category": "trainer",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "원더패치",
+    "name": "원더패치",
+    "category": "trainer",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "월척네트",
+    "name": "월척네트",
+    "category": "trainer",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "위대한 거목",
+    "name": "위대한 거목",
+    "category": "trainer",
+    "setIds": [
+      "SV7"
+    ],
+    "aceSpec": true
+  },
+  {
+    "id": "위험한 밀림",
+    "name": "위험한 밀림",
+    "category": "trainer",
+    "setIds": [
+      "SV5K"
+    ]
+  },
+  {
+    "id": "위험한 폐허",
+    "name": "위험한 폐허",
+    "category": "trainer",
+    "setIds": [
+      "M1L"
+    ]
+  },
+  {
+    "id": "유리나팔",
+    "name": "유리나팔",
+    "category": "trainer",
+    "setIds": [
+      "SV7",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "유빈의 확신",
+    "name": "유빈의 확신",
+    "category": "trainer",
+    "setIds": [
+      "SV5K",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "유카리",
+    "name": "유카리",
+    "category": "trainer",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "이노",
+    "name": "이노",
+    "category": "trainer",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "이상한사탕",
+    "name": "이상한사탕",
+    "category": "trainer",
+    "setIds": [
+      "M1S",
+      "SV4a"
+    ]
+  },
+  {
+    "id": "익사이팅 스타디움",
+    "name": "익사이팅 스타디움",
+    "category": "trainer",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "일렉트릭 제너레이터",
+    "name": "일렉트릭 제너레이터",
+    "category": "trainer",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "잠만보인형",
+    "name": "잠만보인형",
+    "category": "trainer",
+    "setIds": [
+      "SV4K"
+    ]
+  },
+  {
+    "id": "재밍타워",
+    "name": "재밍타워",
+    "category": "trainer",
+    "setIds": [
+      "SV10",
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "저주의 먼지떨이",
+    "name": "저주의 먼지떨이",
+    "category": "trainer",
+    "setIds": [
+      "SV4M"
+    ]
+  },
+  {
+    "id": "저지맨",
+    "name": "저지맨",
+    "category": "trainer",
+    "setIds": [
+      "SV4a",
+      "SV9a"
+    ]
+  },
+  {
+    "id": "절친 포핀",
+    "name": "절친 포핀",
+    "category": "trainer",
+    "setIds": [
+      "M1S",
+      "SV5K",
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "점보 아이스",
+    "name": "점보 아이스",
+    "category": "trainer",
+    "setIds": [
+      "M2",
+      "M4"
+    ]
+  },
+  {
+    "id": "제로의 대공동",
+    "name": "제로의 대공동",
+    "category": "trainer",
+    "setIds": [
+      "SV7",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "제빈",
+    "name": "제빈",
+    "category": "trainer",
+    "setIds": [
+      "SV7a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "종길",
+    "name": "종길",
+    "category": "trainer",
+    "setIds": [
+      "SV4K"
+    ]
+  },
+  {
+    "id": "좋은상처약",
+    "name": "좋은상처약",
+    "category": "trainer",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "주리",
+    "name": "주리",
+    "category": "trainer",
+    "setIds": [
+      "SV11B"
+    ]
+  },
+  {
+    "id": "주문박스",
+    "name": "주문박스",
+    "category": "trainer",
+    "setIds": [
+      "SV5K"
+    ]
+  },
+  {
+    "id": "중력옥",
+    "name": "중력옥",
+    "category": "trainer",
+    "setIds": [
+      "SV7"
+    ]
+  },
+  {
+    "id": "지프",
+    "name": "지프",
+    "category": "trainer",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "청목의 수완",
+    "name": "청목의 수완",
+    "category": "trainer",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "체렌",
+    "name": "체렌",
+    "category": "trainer",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "추리세트",
+    "name": "추리세트",
+    "category": "trainer",
+    "setIds": [
+      "SV8"
+    ]
+  },
+  {
+    "id": "추명",
+    "name": "추명",
+    "category": "trainer",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "추명(스타단)",
+    "name": "추명(스타단)",
+    "category": "trainer",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "축제회장",
+    "name": "축제회장",
+    "category": "trainer",
+    "setIds": [
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "카시오페아",
+    "name": "카시오페아",
+    "category": "trainer",
+    "setIds": [
+      "SV6a"
+    ]
+  },
+  {
+    "id": "카운터 게인",
+    "name": "카운터 게인",
+    "category": "trainer",
+    "setIds": [
+      "SV7a"
+    ]
+  },
+  {
+    "id": "카운터 캐처",
+    "name": "카운터 캐처",
+    "category": "trainer",
+    "setIds": [
+      "SV4M",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "카지",
+    "name": "카지",
+    "category": "trainer",
+    "setIds": [
+      "SV6",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "커다란풍선",
+    "name": "커다란풍선",
+    "category": "trainer",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "코어 메모리",
+    "name": "코어 메모리",
+    "category": "trainer",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "콜사",
+    "name": "콜사",
+    "category": "trainer",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "크세로시키의 속셈",
+    "name": "크세로시키의 속셈",
+    "category": "trainer",
+    "setIds": [
+      "SV6a"
+    ]
+  },
+  {
+    "id": "클라벨",
+    "name": "클라벨",
+    "category": "trainer",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "타라곤",
+    "name": "타라곤",
+    "category": "trainer",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "타로",
+    "name": "타로",
+    "category": "trainer",
+    "setIds": [
+      "SV7",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "타이트밴드",
+    "name": "타이트밴드",
+    "category": "trainer",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "타임",
+    "name": "타임",
+    "category": "trainer",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "탐험가의 선도",
+    "name": "탐험가의 선도",
+    "category": "trainer",
+    "setIds": [
+      "SV5K",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "테라스탈오브",
+    "name": "테라스탈오브",
+    "category": "trainer",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "테사",
+    "name": "테사",
+    "category": "trainer",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "테크노레이더",
+    "name": "테크노레이더",
+    "category": "trainer",
+    "setIds": [
+      "SV4M",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "투로박사의 시나리오",
+    "name": "투로박사의 시나리오",
+    "category": "trainer",
+    "setIds": [
+      "SV4M",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "투희",
+    "name": "투희",
+    "category": "trainer",
+    "setIds": [
+      "SV11W"
+    ]
+  },
+  {
+    "id": "툴스크래퍼",
+    "name": "툴스크래퍼",
+    "category": "trainer",
+    "setIds": [
+      "M4",
+      "SV11W"
+    ]
+  },
+  {
+    "id": "트레져가젯",
+    "name": "트레져가젯",
+    "category": "trainer",
+    "setIds": [
+      "SV8a"
+    ],
+    "aceSpec": true
+  },
+  {
+    "id": "파도타기 비치",
+    "name": "파도타기 비치",
+    "category": "trainer",
+    "setIds": [
+      "M1S",
+      "M4"
+    ]
+  },
+  {
+    "id": "파워프로틴",
+    "name": "파워프로틴",
+    "category": "trainer",
+    "setIds": [
+      "M1L"
+    ]
+  },
+  {
+    "id": "파이팅공",
+    "name": "파이팅공",
+    "category": "trainer",
+    "setIds": [
+      "M1L"
+    ]
+  },
+  {
+    "id": "팔데아의 동료들",
+    "name": "팔데아의 동료들",
+    "category": "trainer",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "팔데아의 학생",
+    "name": "팔데아의 학생",
+    "category": "trainer",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "팔자크",
+    "name": "팔자크",
+    "category": "trainer",
+    "setIds": [
+      "SV6"
+    ]
+  },
+  {
+    "id": "펄롱마을",
+    "name": "펄롱마을",
+    "category": "trainer",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "펑크멧",
+    "name": "펑크멧",
+    "category": "trainer",
+    "setIds": [
+      "M2"
+    ]
+  },
+  {
+    "id": "페퍼",
+    "name": "페퍼",
+    "category": "trainer",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "페퍼의 샌드위치",
+    "name": "페퍼의 샌드위치",
+    "category": "trainer",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "포켓기어3.0",
+    "name": "포켓기어3.0",
+    "category": "trainer",
+    "setIds": [
+      "SV11B"
+    ]
+  },
+  {
+    "id": "포켓몬 교체",
+    "name": "포켓몬 교체",
+    "category": "trainer",
+    "setIds": [
+      "M2",
+      "SV5a",
+      "SV9a"
+    ]
+  },
+  {
+    "id": "포켓몬 캐처",
+    "name": "포켓몬 캐처",
+    "category": "trainer",
+    "setIds": [
+      "SV5a",
+      "SV9a"
+    ]
+  },
+  {
+    "id": "포켓몬 회수 사이클론",
+    "name": "포켓몬 회수 사이클론",
+    "category": "trainer",
+    "setIds": [
+      "SV6",
+      "SV8a"
+    ],
+    "aceSpec": true
+  },
+  {
+    "id": "포켓몬리그본부",
+    "name": "포켓몬리그본부",
+    "category": "trainer",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "포켓바이털A",
+    "name": "포켓바이털A",
+    "category": "trainer",
+    "setIds": [
+      "SV6a"
+    ],
+    "aceSpec": true
+  },
+  {
+    "id": "포켓패드",
+    "name": "포켓패드",
+    "category": "trainer",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "풀메탈 랩",
+    "name": "풀메탈 랩",
+    "category": "trainer",
+    "setIds": [
+      "SV5M"
+    ]
+  },
+  {
+    "id": "풍선",
+    "name": "풍선",
+    "category": "trainer",
+    "setIds": [
+      "M1L",
+      "SV11B"
+    ]
+  },
+  {
+    "id": "프라임 캐처",
+    "name": "프라임 캐처",
+    "category": "trainer",
+    "setIds": [
+      "SV5M",
+      "SV8a"
+    ],
+    "aceSpec": true
+  },
+  {
+    "id": "프리즘타워",
+    "name": "프리즘타워",
+    "category": "trainer",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "피나",
+    "name": "피나",
+    "category": "trainer",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "하반열매",
+    "name": "하반열매",
+    "category": "trainer",
+    "setIds": [
+      "SV8a"
+    ]
+  },
+  {
+    "id": "하솔",
+    "name": "하솔",
+    "category": "trainer",
+    "setIds": [
+      "SV7",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "하이퍼 아로마",
+    "name": "하이퍼 아로마",
+    "category": "trainer",
+    "setIds": [
+      "SV5a"
+    ],
+    "aceSpec": true
+  },
+  {
+    "id": "하이퍼볼",
+    "name": "하이퍼볼",
+    "category": "trainer",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "핸드 트리머",
+    "name": "핸드 트리머",
+    "category": "trainer",
+    "setIds": [
+      "SV5M"
+    ]
+  },
+  {
+    "id": "핸디 서큘레이터",
+    "name": "핸디 서큘레이터",
+    "category": "trainer",
+    "setIds": [
+      "SV6"
+    ]
+  },
+  {
+    "id": "향연피리",
+    "name": "향연피리",
+    "category": "trainer",
+    "setIds": [
+      "SV6"
+    ]
+  },
+  {
+    "id": "헤비 배턴",
+    "name": "헤비 배턴",
+    "category": "trainer",
+    "setIds": [
+      "SV5M"
+    ]
+  },
+  {
+    "id": "현기증 계곡",
+    "name": "현기증 계곡",
+    "category": "trainer",
+    "setIds": [
+      "M2"
+    ]
+  },
+  {
+    "id": "호브의 가방",
+    "name": "호브의 가방",
+    "category": "trainer",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "호브의 구애머리띠",
+    "name": "호브의 구애머리띠",
+    "category": "trainer",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "활력의 숲",
+    "name": "활력의 숲",
+    "category": "trainer",
+    "setIds": [
+      "M1S",
+      "M3"
+    ]
+  },
+  {
+    "id": "희망의 애뮬렛",
+    "name": "희망의 애뮬렛",
+    "category": "trainer",
+    "setIds": [
+      "SV8"
+    ],
+    "aceSpec": true
+  },
+  {
+    "id": "히어로 망토",
+    "name": "히어로 망토",
+    "category": "trainer",
+    "setIds": [
+      "SV5M"
+    ],
+    "aceSpec": true
+  },
+  {
+    "id": "히트버너",
+    "name": "히트버너",
+    "category": "trainer",
+    "setIds": [
+      "M2"
+    ]
+  },
+  {
+    "id": "힘의 모래시계",
+    "name": "힘의 모래시계",
+    "category": "trainer",
+    "setIds": [
+      "SV6a"
+    ]
+  },
+  {
+    "id": "AZ의 평온",
+    "name": "AZ의 평온",
+    "category": "trainer",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "MC의 호응유도",
+    "name": "MC의 호응유도",
+    "category": "trainer",
+    "setIds": [
+      "SV9a"
+    ]
+  },
+  {
+    "id": "N의 방안",
+    "name": "N의 방안",
+    "category": "trainer",
+    "setIds": [
+      "SV11B"
+    ]
+  },
+  {
+    "id": "N의 성",
+    "name": "N의 성",
+    "category": "trainer",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "N의 포인트업",
+    "name": "N의 포인트업",
+    "category": "trainer",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "그로우 에너지",
+    "name": "그로우 에너지",
+    "category": "energy",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "기본 강철 에너지",
+    "name": "기본 강철 에너지",
+    "category": "energy",
+    "setIds": [
+      "SV4M"
+    ]
+  },
+  {
+    "id": "기본 격투 에너지",
+    "name": "기본 격투 에너지",
+    "category": "energy",
+    "setIds": []
+  },
+  {
+    "id": "기본 물 에너지",
+    "name": "기본 물 에너지",
+    "category": "energy",
+    "setIds": []
+  },
+  {
+    "id": "기본 번개 에너지",
+    "name": "기본 번개 에너지",
+    "category": "energy",
+    "setIds": []
+  },
+  {
+    "id": "기본 불꽃 에너지",
+    "name": "기본 불꽃 에너지",
+    "category": "energy",
+    "setIds": []
+  },
+  {
+    "id": "기본 악 에너지",
+    "name": "기본 악 에너지",
+    "category": "energy",
+    "setIds": [
+      "SV4K"
+    ]
+  },
+  {
+    "id": "기본 초 에너지",
+    "name": "기본 초 에너지",
+    "category": "energy",
+    "setIds": []
+  },
+  {
+    "id": "기본 풀 에너지",
+    "name": "기본 풀 에너지",
+    "category": "energy",
+    "setIds": []
+  },
+  {
+    "id": "네오 어퍼 에너지",
+    "name": "네오 어퍼 에너지",
+    "category": "energy",
+    "setIds": [
+      "SV5K"
+    ],
+    "aceSpec": true
+  },
+  {
+    "id": "니트로 에너지",
+    "name": "니트로 에너지",
+    "category": "energy",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "레거시 에너지",
+    "name": "레거시 에너지",
+    "category": "energy",
+    "setIds": [
+      "SV6",
+      "SV8a"
+    ],
+    "aceSpec": true
+  },
+  {
+    "id": "로켓단 에너지",
+    "name": "로켓단 에너지",
+    "category": "energy",
+    "setIds": [
+      "SV10"
+    ]
+  },
+  {
+    "id": "록 에너지",
+    "name": "록 에너지",
+    "category": "energy",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "루미너스 에너지",
+    "name": "루미너스 에너지",
+    "category": "energy",
+    "setIds": [
+      "SV4a",
+      "SV5a"
+    ]
+  },
+  {
+    "id": "리버설 에너지",
+    "name": "리버설 에너지",
+    "category": "energy",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "리치 에너지",
+    "name": "리치 에너지",
+    "category": "energy",
+    "setIds": [
+      "SV7a"
+    ],
+    "aceSpec": true
+  },
+  {
+    "id": "마그넷 에너지",
+    "name": "마그넷 에너지",
+    "category": "energy",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "미스트 에너지",
+    "name": "미스트 에너지",
+    "category": "energy",
+    "setIds": [
+      "SV5M",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "버블 에너지",
+    "name": "버블 에너지",
+    "category": "energy",
+    "setIds": [
+      "M4"
+    ]
+  },
+  {
+    "id": "부메랑 에너지",
+    "name": "부메랑 에너지",
+    "category": "energy",
+    "setIds": [
+      "SV5a"
+    ]
+  },
+  {
+    "id": "스파이크 에너지",
+    "name": "스파이크 에너지",
+    "category": "energy",
+    "setIds": [
+      "SV9"
+    ]
+  },
+  {
+    "id": "이그니션 에너지",
+    "name": "이그니션 에너지",
+    "category": "energy",
+    "setIds": [
+      "M2",
+      "SV11W"
+    ]
+  },
+  {
+    "id": "제트 에너지",
+    "name": "제트 에너지",
+    "category": "energy",
+    "setIds": [
+      "SV7a",
+      "SV8a"
+    ]
+  },
+  {
+    "id": "테라피 에너지",
+    "name": "테라피 에너지",
+    "category": "energy",
+    "setIds": [
+      "SV4a"
+    ]
+  },
+  {
+    "id": "텔레패스 에너지",
+    "name": "텔레패스 에너지",
+    "category": "energy",
+    "setIds": [
+      "M3"
+    ]
+  },
+  {
+    "id": "프리즘 에너지",
+    "name": "프리즘 에너지",
+    "category": "energy",
+    "setIds": [
+      "SV11B"
+    ]
+  }
+]

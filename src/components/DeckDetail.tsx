@@ -24,23 +24,24 @@ const CATEGORY_LABEL: Record<string, string> = {
 
 export default function DeckDetail({ match, owned, expansions }: Props) {
   const need = deckQuantities(match.deck);
+  const hasExpansionSelection = Object.values(expansions).some(Boolean);
+
   const rows = Object.entries(need)
     .map(([cardId, requested]) => {
       const have = owned[cardId] ?? 0;
       const matched = Math.min(have, requested);
       const card = CARDS_BY_ID[cardId];
-      const expansion = card?.setId ? EXPANSIONS_BY_ID[card.setId] : undefined;
-      const fromOwnedSet = !card?.setId || !!expansions[card.setId];
-      return { cardId, card, requested, have, matched, expansion, fromOwnedSet };
+      const setIds = card?.setIds ?? [];
+      const fromOwnedSet =
+        setIds.length === 0 || setIds.some((s) => expansions[s]);
+      return { cardId, card, requested, have, matched, setIds, fromOwnedSet };
     })
     .sort((a, b) => {
       const oa = CATEGORY_ORDER[a.card?.category ?? "trainer"] ?? 9;
       const ob = CATEGORY_ORDER[b.card?.category ?? "trainer"] ?? 9;
       if (oa !== ob) return oa - ob;
-      return (a.card?.name ?? "").localeCompare(b.card?.name ?? "");
+      return (a.card?.name ?? a.cardId).localeCompare(b.card?.name ?? b.cardId);
     });
-
-  const hasExpansionSelection = Object.values(expansions).some(Boolean);
 
   return (
     <div className="space-y-4">
@@ -79,6 +80,9 @@ export default function DeckDetail({ match, owned, expansions }: Props) {
           {rows.map((r) => {
             const isMissing = r.have < r.requested;
             const isPartial = r.have > 0 && r.have < r.requested;
+            const setLabels = r.setIds.map(
+              (s) => EXPANSIONS_BY_ID[s]?.code ?? s
+            );
             return (
               <li
                 key={r.cardId}
@@ -94,24 +98,22 @@ export default function DeckDetail({ match, owned, expansions }: Props) {
                     <span>
                       {CATEGORY_LABEL[r.card?.category ?? ""] ?? "—"}
                     </span>
-                    {r.expansion && (
+                    {setLabels.length > 0 && (
                       <span
                         className={`rounded px-1 py-0.5 text-[10px] ring-1 ring-inset ${
                           hasExpansionSelection && r.fromOwnedSet
                             ? "bg-emerald-50 text-emerald-700 ring-emerald-200"
-                            : hasExpansionSelection
-                              ? "bg-slate-50 text-slate-500 ring-slate-200"
-                              : "bg-slate-50 text-slate-500 ring-slate-200"
+                            : "bg-slate-50 text-slate-500 ring-slate-200"
                         }`}
                         title={
                           hasExpansionSelection
                             ? r.fromOwnedSet
                               ? "보유 확장팩에 등장"
                               : "보유하지 않은 확장팩"
-                            : r.expansion.name
+                            : setLabels.join(", ")
                         }
                       >
-                        {r.expansion.name}
+                        {setLabels.join(" · ")}
                       </span>
                     )}
                   </div>

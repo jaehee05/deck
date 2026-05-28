@@ -4,8 +4,8 @@ export interface Card {
   id: string;
   name: string;
   category: CardCategory;
-  setId?: string;
-  number?: string;
+  setIds: string[];
+  aceSpec?: boolean;
 }
 
 export interface Expansion {
